@@ -1,0 +1,8 @@
+{
+  "name": "実戦頻出詰将棋",
+  "description": "手数を表示\n応手複数指定\nトップのタイトルは２行以内\n問題集並べ替え\nサイトへを追加\nクリア登録リンク実装",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
