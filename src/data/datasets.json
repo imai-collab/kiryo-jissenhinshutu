@@ -3020,5 +3020,386 @@
       }
     ],
     "timestamp": 1792588356247
+  },
+  {
+    "id": "1792592067049",
+    "title": "©kiryoアプリ　実戦頻出詰将棋② (2026/10/21)",
+    "appTitle": "©kiryoアプリ　実戦頻出詰将棋②",
+    "clearUrl": "https://service-8830.ai.studio/complete?book=60-1",
+    "problems": [
+      {
+        "id": 1,
+        "title": "第1問",
+        "description": "第282問 両王手① 一手で２通りの王手を同時に掛けることを「両王手」と言います。",
+        "initialSfen": "7nl/7k1/7pp/5+R3/4B4/9/9/9/9 b rb4g4s3n3l16p 1"
+      },
+      {
+        "id": 2,
+        "title": "第2問",
+        "description": "第283問 両王手② 「両王手」と「開き王手」の違いをおぼえてください。",
+        "initialSfen": "7nl/8k/7R1/9/5BrN1/9/9/9/9 b b4g4s2n3l18p 1"
+      },
+      {
+        "id": 3,
+        "title": "第3問",
+        "description": "第284問 両王手③ 駒を取る王手より「両王手」が有効です。",
+        "initialSfen": "6snk/5r3/6+R2/5B3/9/9/9/9/9 b b4g3s3n4l18p 1"
+      },
+      {
+        "id": 4,
+        "title": "第4問",
+        "description": "第285問 両王手④ 両王手で詰まします。その方法は？",
+        "initialSfen": "6+Bnl/8k/8B/9/7rL/9/9/9/9 b r4g4s3n2l18p 1"
+      },
+      {
+        "id": 5,
+        "title": "第5問",
+        "description": "第286問 両王手⑤ 両王手は３通りあります。消去法で考えて手を選んでください。",
+        "initialSfen": "6Bnl/6+bR1/6s1k/9/7L1/9/9/9/9 b r4g3s3n2l18p 1"
+      },
+      {
+        "id": 6,
+        "title": "第6問",
+        "description": "第287問 両王手⑥ 銀を動かして厳しい両王手を掛けてください。",
+        "initialSfen": "7+Pg/9/4R1Sk1/6ppp/9/9/9/9/9 b r2b3g3s4n4l14p 1"
+      },
+      {
+        "id": 7,
+        "title": "第7問",
+        "description": "第288問 両王手⑦ 「両王手」は一手で同時に２通りの王手が掛かることを言います。",
+        "initialSfen": "7nl/9/8k/6BNp/6B2/9/9/9/9 b 2r4g4s2n3l17p 1"
+      },
+      {
+        "id": 8,
+        "title": "第8問",
+        "description": "第289問 両王手⑧ 「両王手」の理解ができていれば、桂の使い方が分かります。",
+        "initialSfen": "7nk/7s1/9/9/8N/8L/9/9/9 b 2r2b4g3s2n3l18p 1"
+      },
+      {
+        "id": 9,
+        "title": "第9問",
+        "description": "第290問 両王手⑨ 竜を移動して両王手をかけます。",
+        "initialSfen": "6skl/9/5+R3/4B4/9/9/9/9/9 b rb4g3s4n3l18p 1"
+      },
+      {
+        "id": 10,
+        "title": "第10問",
+        "description": "第291問 両王手⑩ 飛車や馬を取って王手をしても詰みません。",
+        "initialSfen": "8k/6+b2/6+R2/5B1r1/9/9/9/9/9 b 4g4s4n4l18p 1"
+      },
+      {
+        "id": 11,
+        "title": "第11問",
+        "description": "第292問 両王手⑪ 守備飛車に気をつけて、玉を５五角の射程に入れてください。",
+        "initialSfen": "5r1nl/8k/7sp/5+R3/4B4/9/9/9/9 b Gb3g3s3n3l17p 1"
+      },
+      {
+        "id": 12,
+        "title": "第12問",
+        "description": "第293問 両王手⑫ 最後は、角と金での両王手で詰ますことになります。",
+        "initialSfen": "6Bnl/6s1k/9/7Pp/9/9/9/9/9 b G2rb3g3s3n3l16p 1"
+      },
+      {
+        "id": 13,
+        "title": "第13問",
+        "description": "第294問 両王手⑬ 初手に策を講じて３手目の両王手で詰まします。",
+        "initialSfen": "6kn1/5s3/5p1R1/6p1B/9/9/9/9/9 b Srb4g2s3n4l16p 1"
+      },
+      {
+        "id": 14,
+        "title": "第14問",
+        "description": "第295問 両王手⑭ 初手に両王手はありません。３手目に両王手をかけて詰ましてください。",
+        "initialSfen": "7kl/9/6PP+b/6B2/9/9/9/9/9 b G2r3g4s4n3l16p 1"
+      },
+      {
+        "id": 15,
+        "title": "第15問",
+        "description": "第296問 両王手⑮ 香成りで決めますが、焦らず迫ります。テーマはやはり「両王手」です。",
+        "initialSfen": "7nl/6G1k/9/7Ls/6Br1/9/9/9/9 b rb3g3s3n2l18p 1"
+      },
+      {
+        "id": 16,
+        "title": "第16問",
+        "description": "第297問 両王手⑯ ３手目に竜と角の連携で両王手の詰み形を作ってください。",
+        "initialSfen": "7n1/7Bk/5p+R2/5B1r1/9/9/9/9/9 b 4g4s3n4l17p 1"
+      },
+      {
+        "id": 17,
+        "title": "第17問",
+        "description": "第298問 両王手⑰ 難問です。５手目に「両王手」を実現させます。",
+        "initialSfen": "5p1n1/8l/6kpp/5R3/4B4/9/9/9/9 b Br4g4s3n3l15p 1"
+      },
+      {
+        "id": 18,
+        "title": "第18問",
+        "description": "第299問 両王手⑱ 高度なテクニックで２枚の飛車を操ります。",
+        "initialSfen": "7n1/7s1/8k/6RR1/5B3/9/9/9/9 b b4g3s3n4l18p 1"
+      },
+      {
+        "id": 19,
+        "title": "第19問",
+        "description": "第300問 開き王手① ３四の角が生命線です。取られないようにしながらの開き王手は？",
+        "initialSfen": "7nl/6l1k/5r1R1/6B2/9/9/9/9/9 b b4g4s3n2l18p 1"
+      },
+      {
+        "id": 20,
+        "title": "第20問",
+        "description": "第301問 開き王手② 飛車を移動して開き王手をかけます。守り駒に注意をしてください。",
+        "initialSfen": "5G1nl/6k2/5p1R1/8B/9/9/9/9/9 b rb3g4s3n3l17p 1"
+      },
+      {
+        "id": 21,
+        "title": "第21問",
+        "description": "第302問 開き王手③ 香の移動で開き王手をしますが、絶好の地点があります。",
+        "initialSfen": "7nl/9/6S1k/7Lp/6Bp1/9/9/9/9 b 2rb4g3s3n2l16p 1"
+      },
+      {
+        "id": 22,
+        "title": "第22問",
+        "description": "第303問 開き王手④ 現状で玉が動ける場所は１二と１三です。両方を封じる開き王手は？",
+        "initialSfen": "6Sn1/6g2/6bk1/6R2/5B2P/9/9/9/9 b r3g3s3n4l17p 1"
+      },
+      {
+        "id": 23,
+        "title": "第23問",
+        "description": "第304問 開き王手⑤ 駒を取りながらの開き王手が第一感ですが……。",
+        "initialSfen": "6Bn1/6gRl/8k/9/8P/9/9/9/9 b rb3g4s3n3l17p 1"
+      },
+      {
+        "id": 24,
+        "title": "第24問",
+        "description": "第305問 開き王手⑥ 桂打ちを決め手にしますが、４二の角がそれを妨げているようです。",
+        "initialSfen": "7nl/5b1gk/8p/6G2/5B3/9/9/9/9 b N2r2g4s2n3l17p 1"
+      },
+      {
+        "id": 25,
+        "title": "第25問",
+        "description": "第306問 開き王手⑦ まずは飛車で開き王手をかけ、桂打ちで決めます。",
+        "initialSfen": "7nl/4gRS1k/7bp/9/9/9/9/9/9 b Nrb3g3s2n3l17p 1"
+      },
+      {
+        "id": 26,
+        "title": "第26問",
+        "description": "第307問 開き王手⑧ 攻め駒がもう１枚欲しいところです。",
+        "initialSfen": "6Bnl/7R1/6r1k/8p/9/9/9/9/9 b b4g4s3n3l17p 1"
+      },
+      {
+        "id": 27,
+        "title": "第27問",
+        "description": "第308問 開き王手⑨ 角が動けば開き王手ですが、玉方の飛車の利きに注意をしてください。",
+        "initialSfen": "7nl/5+R1Bk/9/8p/5r3/9/9/9/9 b b4g4s3n3l17p 1"
+      },
+      {
+        "id": 28,
+        "title": "第28問",
+        "description": "第309問 開き王手⑩ 開き王手をかけますが、飛車の成り場所が問題です。",
+        "initialSfen": "6p1k/7R1/6B1p/6+b2/9/7r1/9/9/9 b L4g4s4n3l16p 1"
+      },
+      {
+        "id": 29,
+        "title": "第29問",
+        "description": "第310問 開き王手⑪ 意外な開き王手で追い詰めてください。",
+        "initialSfen": "6r1l/9/5RS1k/7Pp/7p1/8P/9/9/9 b 2b4g3s4n3l14p 1"
+      },
+      {
+        "id": 30,
+        "title": "第30問",
+        "description": "第311問 開き王手⑫ 開き王手で香筋を通してから、金打ちで仕留めます。",
+        "initialSfen": "5g1nl/7k1/9/5PpGp/7L1/9/9/9/9 b G2r2bg4s3n2l15p 1"
+      },
+      {
+        "id": 31,
+        "title": "第31問",
+        "description": "第312問 開き王手⑬ 銀をどのように動かせばよいでしょう？初手がポイントです。",
+        "initialSfen": "7B1/4RS1k1/6p1s/7pp/9/9/9/9/9 b rb4g2s4n4l15p 1"
+      },
+      {
+        "id": 32,
+        "title": "第32問",
+        "description": "第313問 開き王手⑭ 単純な開き王手では詰みません。初手に工夫が必要です。",
+        "initialSfen": "7nl/7p1/8k/6GNp/6B2/9/9/9/9 b G2rb2g4s2n3l16p 1"
+      },
+      {
+        "id": 33,
+        "title": "第33問",
+        "description": "第314問 開き王手⑮ 金を動かしての開き王手をかけます。後は持駒の角で仕留めます。",
+        "initialSfen": "8k/6n2/6G2/5B3/7r1/9/9/9/9 b Br3g4s3n4l18p 1"
+      },
+      {
+        "id": 34,
+        "title": "第34問",
+        "description": "第315問 開き王手⑯ 桂を成り込んで開き王手を掛けます。３手目が大切です。",
+        "initialSfen": "6rn1/8b/9/6+RNk/7Pp/9/9/9/9 b Gb3g4s2n4l16p 1"
+      },
+      {
+        "id": 35,
+        "title": "第35問",
+        "description": "第316問 開き王手⑰ 開き王手は２通り。どちらが正解でしょう？",
+        "initialSfen": "6r2/7+b1/9/6+RNk/4+b2Pp/9/9/9/9 b G3g4s3n4l16p 1"
+      },
+      {
+        "id": 36,
+        "title": "第36問",
+        "description": "第317問 開き王手⑱ 飛車が移動して開き王手を掛けますが、打ち歩詰めに注意をしてください。",
+        "initialSfen": "8k/5S1R1/5p3/5B3/9/9/9/9/9 b Prb4g3s4n4l16p 1"
+      },
+      {
+        "id": 37,
+        "title": "第37問",
+        "description": "第318問 開き王手⑲ 飛車の素抜きに注意して開き王手をしながら追い詰めます。",
+        "initialSfen": "7nl/5R1Bk/9/9/8b/9/9/9/9 b r4g4s3n3l18p 1"
+      },
+      {
+        "id": 38,
+        "title": "第38問",
+        "description": "第319問 開き王手⑳ 初手は飛車打ちから入ります。３手目の開き王手の成り場所が問題です。",
+        "initialSfen": "7nl/6r2/8k/6B1p/9/9/9/9/9 b Rb4g4s3n3l17p 1"
+      },
+      {
+        "id": 39,
+        "title": "第39問",
+        "description": "第320問 開き王手㉑ 飛車を動かして開き王手をかけますが、玉方の応手に注意です。",
+        "initialSfen": "8l/7S1/9/8k/7Rp/6B2/9/9/9 b Lrb4g3s4n2l17p 1"
+      },
+      {
+        "id": 40,
+        "title": "第40問",
+        "description": "第321問 金をとどめに残す① 金は詰みの主役です。飛車の犠打を放ち、金打ちで詰む形を作ります。",
+        "initialSfen": "5b1nl/5r2k/8p/9/7L1/9/9/9/9 b RGb3g4s3n2l17p 1"
+      },
+      {
+        "id": 41,
+        "title": "第41問",
+        "description": "第322問 金をとどめに残す② 飛車と銀の堅固な守りですが、角打ち一発で崩れます。",
+        "initialSfen": "5s1kl/5r3/4p2+Pp/9/9/9/9/9/9 b BGrb3g3s4n3l15p 1"
+      },
+      {
+        "id": 42,
+        "title": "第42問",
+        "description": "第323問 金をとどめに残す③ 飛車の利きを止めて、金打ちで仕留めます。",
+        "initialSfen": "8l/6G1k/6n1p/7r1/9/9/9/9/9 b BGrb2g4s3n3l17p 1"
+      },
+      {
+        "id": 43,
+        "title": "第43問",
+        "description": "第324問 金をとどめに残す④ 腹金を決め手にしてください。",
+        "initialSfen": "6s1R/6rk1/9/6B1p/5p3/9/9/9/9 b Gb3g3s4n4l16p 1"
+      },
+      {
+        "id": 44,
+        "title": "第44問",
+        "description": "第325問 金をとどめに残す⑤ 金打ちを決め手にするのに２三飛が邪魔駒のようです。",
+        "initialSfen": "5r1nl/6S1k/7R1/5b3/9/9/9/9/9 b Gb3g3s3n3l18p 1"
+      },
+      {
+        "id": 45,
+        "title": "第45問",
+        "description": "第326問 金をとどめに残す⑥ １四の地点への馬の利きが止まれば、頭金までのやさしい詰み形ができます。",
+        "initialSfen": "8S/6+b1l/5p2k/7p1/8P/9/9/9/9 b RGrb3g3s4n3l15p 1"
+      },
+      {
+        "id": 46,
+        "title": "第46問",
+        "description": "第327問 金をとどめに残す⑦ ３三馬の利きをなくせば、▲１五金までの詰み形ができます。",
+        "initialSfen": "9/7+P1/6+b1p/8k/7p1/6R1P/9/9/9 b Grb3g4s4n4l14p 1"
+      },
+      {
+        "id": 47,
+        "title": "第47問",
+        "description": "第328問 金をとどめに残す⑧ 飛車の利きを遮断して、金打ちで決め手にしてください。",
+        "initialSfen": "7rl/6S2/8k/7pp/9/9/9/9/9 b BGrb3g3s4n3l16p 1"
+      },
+      {
+        "id": 48,
+        "title": "第48問",
+        "description": "第329問 金をとどめに残す⑨ 銀の犠打で、玉方がどう応じても頭金の詰み形になるようにしてください。",
+        "initialSfen": "7n1/7k1/7B1/7P1/9/9/9/9/9 b GS2rb3g3s3n4l17p 1"
+      },
+      {
+        "id": 49,
+        "title": "第49問",
+        "description": "第330問 金をとどめに残す⑩ 守りの銀を無効化してください。",
+        "initialSfen": "5skn1/9/4+R+P1p1/9/9/9/9/9/9 b Gr2b3g2s3n4l16p 1"
+      },
+      {
+        "id": 50,
+        "title": "第50問",
+        "description": "第331問 金をとどめに残す⑪ 初手にちょっと洒落た手があります。",
+        "initialSfen": "9/5sk2/4Bp2+P/6p2/5N3/9/9/9/9 b G2rb3g3s3n4l15p 1"
+      },
+      {
+        "id": 51,
+        "title": "第51問",
+        "description": "第332問 金をとどめに残す⑫ 現状、金を使って詰ます手段がありません。玉方に隙を作ってください。",
+        "initialSfen": "7n1/4GBks1/5p3/6S2/9/9/9/9/9 b G2rb2g2s3n4l17p 1"
+      },
+      {
+        "id": 52,
+        "title": "第52問",
+        "description": "第333問 金をとどめに残す⑬ 持駒は金が１枚ですが、節約して決め手に使ってください。",
+        "initialSfen": "6k1+P/6g2/9/7+BN/9/9/9/9/9 b G2rb2g4s3n4l17p 1"
+      },
+      {
+        "id": 53,
+        "title": "第53問",
+        "description": "第334問 金をとどめに残す⑭ 角は急所の駒で残します。飛車をさばいて金打ちを決め手にします。",
+        "initialSfen": "8B/5sk2/5p3/7R1/9/9/9/9/9 b Grb3g3s4n4l17p 1"
+      },
+      {
+        "id": 54,
+        "title": "第54問",
+        "description": "第335問 金をとどめに残す⑮ 守りの竜が居なければ▲２二金まで。竜の縦利きをなくしてください。",
+        "initialSfen": "7nl/8k/8p/5B1+r1/5p3/9/9/9/9 b BGr3g4s3n3l16p 1"
+      },
+      {
+        "id": 55,
+        "title": "第55問",
+        "description": "第336問 金をとどめに残す⑯ ここでも決め手は金打ちです。腹金で詰む形をイメージしてください。",
+        "initialSfen": "6B1l/8k/6s2/7Pp/9/9/9/9/9 b G2rb3g3s4n3l16p 1"
+      },
+      {
+        "id": 56,
+        "title": "第56問",
+        "description": "第337問 金をとどめに残す⑰ 意表を突く一手があり、どう応じても金打ちまでの詰みとなります。",
+        "initialSfen": "7nl/5+R1S1/7k1/6pb1/8P/9/9/9/9 b Grb3g3s3n3l16p 1"
+      },
+      {
+        "id": 57,
+        "title": "第57問",
+        "description": "第338問 金をとどめに残す⑱ 強力な馬の利きをそらして、金打ちを決め手にしてください。",
+        "initialSfen": "6RG1/8k/6+bpp/6r2/9/9/9/9/9 b Gb2g4s4n4l16p 1"
+      },
+      {
+        "id": 58,
+        "title": "第58問",
+        "description": "第339問 金をとどめに残す⑲ 金は最後に残しておきます。",
+        "initialSfen": "7nl/6sR1/6n1k/9/8p/9/9/9/9 b GSNr2b3g2sn3l17p 1"
+      },
+      {
+        "id": 59,
+        "title": "第59問",
+        "description": "第340問 金をとどめに残す⑳ ３六の香を使いたいところです。",
+        "initialSfen": "6kn1/9/4Ppsp1/6Nb1/9/6L2/9/9/9 b 2G2rb2g3s2n3l15p 1"
+      },
+      {
+        "id": 60,
+        "title": "第60問",
+        "description": "第341問 金をとどめに残す㉑ 初手と３手目が難関です。ひねった王手を掛けてください。",
+        "initialSfen": "8+R/7S1/6gk1/4p1p2/7Pb/9/9/9/9 b Grb2g3s4n4l15p 1"
+      },
+      {
+        "id": 61,
+        "title": "第61問",
+        "description": "第342問 金をとどめに残す㉒ ３手一組の好手順で、飛車の横利きを消します。",
+        "initialSfen": "5gk1l/5r3/7+Pp/4p4/9/9/9/9/9 b B2Grbg4s4n3l15p 1"
+      },
+      {
+        "id": 62,
+        "title": "第62問",
+        "description": "第343問 金をとどめに残す㉓ ２三の角の処置が問題です。",
+        "initialSfen": "7nl/9/7Bk/9/8p/6bL1/9/9/9 b G2r3g4s3n2l17p 1"
+      }
+    ],
+    "timestamp": 1792592067058
   }
 ]
