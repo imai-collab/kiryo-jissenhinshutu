@@ -1,13 +1,13 @@
 [
   {
-    "id": "1792585698910",
+    "id": "1792588356247",
     "title": "©kiryoアプリ　実戦頻出詰将棋①+ (2026/10/21)",
     "appTitle": "©kiryoアプリ　実戦頻出詰将棋①+",
     "clearUrl": "https://service-8830.ai.studio/complete?book=60-1",
     "problems": [
       {
-        "id": 2,
-        "title": "問題１",
+        "id": 1,
+        "title": "第1問",
         "description": "第221問 一間竜の基本① まずは「一間竜」の手筋を扱います。横の筋から攻める一間竜で攻略しましょう。",
         "initialSfen": "6+R2/7+P1/8k/8p/9/9/9/9/9 b r2b4g4s4n4l16p 1",
         "solution": [
@@ -43,8 +43,8 @@
         ]
       },
       {
-        "id": 3,
-        "title": "問題２",
+        "id": 2,
+        "title": "第2問",
         "description": "第222問 一間竜の基本② 前問と似ていますが玉方の歩の位置が違います。同様に攻めてよいでしょうか。",
         "initialSfen": "6+R2/7+P1/8k/7p1/9/9/9/9/9 b r2b4g4s4n4l16p 1",
         "solution": [
@@ -80,8 +80,8 @@
         ]
       },
       {
-        "id": 4,
-        "title": "問題３",
+        "id": 3,
+        "title": "第3問",
         "description": "第223問 一間竜の基本③ と金と竜の協力形で詰まします。",
         "initialSfen": "4+R1+Pnl/7k1/7pp/9/9/9/9/9/9 b r2b4g4s3n3l15p 1",
         "solution": [
@@ -117,8 +117,8 @@
         ]
       },
       {
-        "id": 5,
-        "title": "問題４",
+        "id": 4,
+        "title": "第4問",
         "description": "第224問 一間竜の基本④ 意表の王手があります。",
         "initialSfen": "7gk/8l/6+R2/5B3/9/9/9/9/9 b rb3g4s4n3l18p 1",
         "solution": [
@@ -154,8 +154,8 @@
         ]
       },
       {
-        "id": 6,
-        "title": "問題５",
+        "id": 5,
+        "title": "第5問",
         "description": "第225問 一間竜の基本⑤ 前問と似た形ですが……。",
         "initialSfen": "7bk/8g/6+R2/5B3/9/9/9/9/9 b r3g4s4n4l18p 1",
         "solution": [
@@ -191,8 +191,8 @@
         ]
       },
       {
-        "id": 7,
-        "title": "問題６",
+        "id": 6,
+        "title": "第6問",
         "description": "第226問 一間竜の基本⑥ 縦に使う一間竜で仕留めてください。",
         "initialSfen": "7kl/9/5+R3/9/9/9/9/9/9 b Gr2b3g4s4n3l18p 1",
         "solution": [
@@ -224,8 +224,8 @@
         ]
       },
       {
-        "id": 8,
-        "title": "問題７",
+        "id": 7,
+        "title": "第7問",
         "description": "第227問 一間竜の基本⑦ 一間竜から銀打ちを決め手にしてくださ い。",
         "initialSfen": "5+R2l/8k/8p/8s/9/9/9/9/9 b Sr2b4g2s4n3l18p 1",
         "solution": [
@@ -257,8 +257,8 @@
         ]
       },
       {
-        "id": 9,
-        "title": "問題８",
+        "id": 8,
+        "title": "第8問",
         "description": "第228問 一間竜の基本⑧ 一間竜から桂打ちを決め手にしてくださ い。",
         "initialSfen": "8k/7P1/6+R2/9/9/9/9/9/9 b Nr2b4g4s3n4l17p 1",
         "solution": [
@@ -290,8 +290,8 @@
         ]
       },
       {
-        "id": 10,
-        "title": "問題９",
+        "id": 9,
+        "title": "第9問",
         "description": "第229問 一間竜の応用① 一間竜で強力な馬の守りをかいくぐって ください。",
         "initialSfen": "8l/8k/5+R3/5+b2P/9/9/9/9/9 b Lrb4g4s4n2l17p 1",
         "solution": [
@@ -323,8 +323,8 @@
         ]
       },
       {
-        "id": 11,
-        "title": "問題１０",
+        "id": 10,
+        "title": "第10問",
         "description": "第230問 一間竜の応用② 必殺の角打ちがあります。３手目に一間竜の形を作ってください。",
         "initialSfen": "5R3/6k1+P/6n2/6p1p/9/9/9/9/9 b Brb4g4s3n4l15p 1",
         "solution": [
@@ -378,8 +378,8 @@
         ]
       },
       {
-        "id": 12,
-        "title": "問題１１",
+        "id": 11,
+        "title": "第11問",
         "description": "第231問 一間竜の応用③ 本問でも一間竜が登場します。",
         "initialSfen": "7kl/5bg2/5R3/7Np/9/9/9/9/9 b Grb2g4s3n3l17p 1",
         "solution": [
@@ -415,8 +415,8 @@
         ]
       },
       {
-        "id": 13,
-        "title": "問題１２",
+        "id": 12,
+        "title": "第12問",
         "description": "第232問 一間竜の応用④ 二枚竜は強力ですが、追い方を誤ると詰まし損ねます。正しい迫り方は？",
         "initialSfen": "7kl/4+R4/8p/5+R3/4b4/9/9/9/9 b b4g4s4n3l17p 1",
         "solution": [
@@ -452,8 +452,8 @@
         ]
       },
       {
-        "id": 14,
-        "title": "問題１３",
+        "id": 13,
+        "title": "第13問",
         "description": "第233問 一間竜の応用⑤ テクニカルに追いかけます。",
         "initialSfen": "7n1/8k/9/6+R2/7pp/9/9/9/9 b Gr2b3g4s3n4l16p 1",
         "solution": [
@@ -529,8 +529,8 @@
         ]
       },
       {
-        "id": 15,
-        "title": "問題１４",
+        "id": 14,
+        "title": "第14問",
         "description": "第234問 一間竜の応用⑥ 一間竜を繰り出すタイミングが問題です。",
         "initialSfen": "5+R2l/7k1/8p/9/6p1P/8L/9/9/9 b Gr2b3g4s4n2l15p 1",
         "solution": [
@@ -606,8 +606,8 @@
         ]
       },
       {
-        "id": 16,
-        "title": "問題１５",
+        "id": 15,
+        "title": "第15問",
         "description": "第235問 一間竜の応用⑦ 上部脱出に注意してください。",
         "initialSfen": "6B1l/8k/6P2/5+R3/9/9/9/9/9 b rb4g4s4n3l17p 1",
         "solution": [
@@ -665,8 +665,8 @@
         ]
       },
       {
-        "id": 17,
-        "title": "問題１６",
+        "id": 16,
+        "title": "第16問",
         "description": "第236問 一間竜の応用⑧ 玉方は「木村美濃」と呼ばれる形。堅そうな陣形ですが隙がありました。",
         "initialSfen": "7nl/5+Rgk1/5s1pp/9/9/9/9/9/9 b Sr2b3g2s3n3l16p 1",
         "solution": [
@@ -720,8 +720,8 @@
         ]
       },
       {
-        "id": 18,
-        "title": "問題１７",
+        "id": 17,
+        "title": "第17問",
         "description": "第237問 一間竜の応用⑨ 持駒の銀の使い方が問題です。",
         "initialSfen": "6gkl/9/6+R2/5b2p/7N1/9/9/9/9 b Srb3g3s3n3l17p 1",
         "solution": [
@@ -775,8 +775,8 @@
         ]
       },
       {
-        "id": 19,
-        "title": "問題１８",
+        "id": 18,
+        "title": "第18問",
         "description": "第238問 一間竜の応用⑩ 一間竜で追い詰めてください。",
         "initialSfen": "8+R/5g3/5pk1n/5+bp1p/7P1/9/9/9/9 b Srb3g3s3n4l14p 1",
         "solution": [
@@ -834,8 +834,8 @@
         ]
       },
       {
-        "id": 20,
-        "title": "問題１９",
+        "id": 19,
+        "title": "第19問",
         "description": "第239問 一間竜の応用⑪ 一間竜で追いかけます。銀を使うタイミングに注意してください。",
         "initialSfen": "8k/6P2/5+R3/9/9/9/9/9/9 b Sr2b4g3s4n4l17p 1",
         "solution": [
@@ -889,8 +889,8 @@
         ]
       },
       {
-        "id": 21,
-        "title": "問題２０",
+        "id": 20,
+        "title": "第20問",
         "description": "第240問 退路封鎖の手筋① ここからは「退路封鎖」の手筋を扱います。犠打を放って上部脱出を防ぎます。",
         "initialSfen": "6Bnl/8k/7p1/9/9/9/9/9/9 b GS2rb3g3s3n3l17p 1",
         "solution": [
@@ -922,8 +922,8 @@
         ]
       },
       {
-        "id": 22,
-        "title": "問題２１",
+        "id": 21,
+        "title": "第21問",
         "description": "第241問 退路封鎖の手筋② 角成を決め手にします。そのために事前工作が必要です。",
         "initialSfen": "7+Pl/9/6Bpk/8p/9/9/9/9/9 b G2rb3g4s4n3l15p 1",
         "solution": [
@@ -959,8 +959,8 @@
         ]
       },
       {
-        "id": 23,
-        "title": "問題２２",
+        "id": 22,
+        "title": "第22問",
         "description": "第242問 退路封鎖の手筋③ 竜の守りが強く、上部に逃げ出されそうですが逆用してください。",
         "initialSfen": "7nl/6+B2/6S1k/9/9/8+r/9/9/9 b Lrb4g3s3n2l18p 1",
         "solution": [
@@ -996,8 +996,8 @@
         ]
       },
       {
-        "id": 24,
-        "title": "問題２３",
+        "id": 23,
+        "title": "第23問",
         "description": "第243問 退路封鎖の手筋④ 金をとどめ以外に使うケースもあります。",
         "initialSfen": "7R1/7Sk/9/9/6b2/9/9/9/9 b Grb3g3s4n4l18p 1",
         "solution": [
@@ -1033,8 +1033,8 @@
         ]
       },
       {
-        "id": 25,
-        "title": "問題２４",
+        "id": 24,
+        "title": "第24問",
         "description": "第244問 退路封鎖の手筋⑤ 守備馬を逆用します。",
         "initialSfen": "8l/7+P1/9/6+B1k/8p/7+b1/9/9/9 b S2r4g3s4n3l16p 1",
         "solution": [
@@ -1070,8 +1070,8 @@
         ]
       },
       {
-        "id": 26,
-        "title": "問題２５",
+        "id": 25,
+        "title": "第25問",
         "description": "第245問 退路封鎖の手筋⑥ 単に☗２二飛成だと☖１四玉と逃げられます。策を練ってください。",
         "initialSfen": "7+Pl/6b2/8k/7R1/6s2/9/9/9/9 b Rb4g3s4n3l17p 1",
         "solution": [
@@ -1107,8 +1107,8 @@
         ]
       },
       {
-        "id": 27,
-        "title": "問題２６",
+        "id": 26,
+        "title": "第26問",
         "description": "第246問 退路封鎖の手筋⑦ 馬で王手をかけたときに、玉が１四にも２四にも逃げられないようにします。",
         "initialSfen": "7n1/5+B+B1l/7pk/9/9/9/9/9/9 b G2r3g4s3n3l17p 1",
         "solution": [
@@ -1162,8 +1162,8 @@
         ]
       },
       {
-        "id": 28,
-        "title": "問題２７",
+        "id": 27,
+        "title": "第27問",
         "description": "第247問 退路封鎖の手筋⑧ すぐ☗２一馬は☖１三玉と脱出されます。「玉の退路をふさぐ」手段は……。",
         "initialSfen": "5R+Bnl/8k/7p1/7b1/9/9/9/9/9 b Gr3g4s3n3l17p 1",
         "solution": [
@@ -1199,8 +1199,8 @@
         ]
       },
       {
-        "id": 29,
-        "title": "問題２８",
+        "id": 28,
+        "title": "第28問",
         "description": "第248問 退路封鎖の手筋⑨ 玉方の馬を逆用して「打ち歩詰め」の打開を図ってください。",
         "initialSfen": "9/7+P1/7Sk/9/7P1/5+b3/9/9/9 b BP2r4g3s4n4l15p 1",
         "solution": [
@@ -1254,8 +1254,8 @@
         ]
       },
       {
-        "id": 30,
-        "title": "問題２９",
+        "id": 29,
+        "title": "第29問",
         "description": "第249問 退路封鎖の手筋⑩ 本問も打ち歩詰め打開がテーマです。",
         "initialSfen": "9/6+B1l/6S1k/9/6+b2/9/9/9/9 b NP2r4g3s3n3l17p 1",
         "solution": [
@@ -1309,8 +1309,8 @@
         ]
       },
       {
-        "id": 31,
-        "title": "問題３０",
+        "id": 30,
+        "title": "第30問",
         "description": "第250問 退路封鎖の手筋⑪ 打ち歩詰めを打開しながら、玉の退路も防ぐ手段は？",
         "initialSfen": "9/7+P1/7Sk/7b1/9/8+b/9/9/9 b NP2r4g3s3n4l16p 1",
         "solution": [
@@ -1364,8 +1364,118 @@
         ]
       },
       {
+        "id": 31,
+        "title": "第31問",
+        "description": "第251問 退路封鎖の手筋⑫ 香の犠打で玉の退路をふさいでから",
+        "initialSfen": "8l/5p2k/6G2/6s2/9/8+r/9/9/9 b RL2b3g3s4n2l10p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "piece": "KY"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 6
+            },
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "HI"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          }
+        ]
+      },
+      {
         "id": 32,
-        "title": "問題３１",
+        "title": "第32問",
+        "description": "第252問 退路封鎖の手筋⑬ ３筋に逃さないように",
+        "initialSfen": "7nl/5BPk1/7pp/9/9/9/9/9/9 b GS2rb3g3s3n3l14p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "title": "第33問",
         "description": "第253問 退路封鎖の手筋⑭ 上部脱出を防ぐために事前工作をします。",
         "initialSfen": "7kl/9/5pP+P1/9/6r2/9/9/9/9 b BNrb4g4s3n3l15p 1",
         "solution": [
@@ -1419,8 +1529,8 @@
         ]
       },
       {
-        "id": 33,
-        "title": "問題３２",
+        "id": 34,
+        "title": "第34問",
         "description": "第254問 退路封鎖の手筋⑮ 第252問と同じ詰み筋で迫りますが、３手目にちょっとした工夫が必要です。",
         "initialSfen": "6+Bnl/8k/9/7r1/7B1/9/9/9/9 b GSr3g3s3n3l18p 1",
         "solution": [
@@ -1470,8 +1580,8 @@
         ]
       },
       {
-        "id": 34,
-        "title": "問題３３",
+        "id": 35,
+        "title": "第35問",
         "description": "第255問 退路封鎖の手筋⑯ ２六の竜を巧みに使い、打ち歩詰めを解消しながら上部脱出を防ぎます。",
         "initialSfen": "9/8l/6+PSk/7p1/7g1/7+R1/9/9/9 b Pr2b3g3s4n3l15p 1",
         "solution": [
@@ -1529,8 +1639,8 @@
         ]
       },
       {
-        "id": 35,
-        "title": "問題３４",
+        "id": 36,
+        "title": "第36問",
         "description": "第256問 退路封鎖の手筋⑰ 玉を下段に逃がしてはいけません。中段のまま捕らえます。",
         "initialSfen": "9/6g2/7pp/5+B1k1/9/7S1/9/9/9 b B2r3g3s4n4l16p 1",
         "solution": [
@@ -1588,8 +1698,8 @@
         ]
       },
       {
-        "id": 36,
-        "title": "問題３５",
+        "id": 37,
+        "title": "第37問",
         "description": "第257問 退路封鎖の手筋⑱ やはり捨て駒を放って玉の上部脱出を防ぎます。",
         "initialSfen": "7nl/5B1kb/5S3/7g1/9/9/9/9/9 b GS2r2g2s3n3l18p 1",
         "solution": [
@@ -1643,8 +1753,8 @@
         ]
       },
       {
-        "id": 37,
-        "title": "問題３６",
+        "id": 38,
+        "title": "第38問",
         "description": "第258問 退路封鎖の手筋⑲ ☗１二銀成で仕留めたいですが、現状は☖１四玉と逃げられます。",
         "initialSfen": "9/9/7Sk/6+B2/8p/7+b1/9/9/9 b NP2r4g3s3n4l16p 1",
         "solution": [
@@ -1698,8 +1808,8 @@
         ]
       },
       {
-        "id": 38,
-        "title": "問題３７",
+        "id": 39,
+        "title": "第39問",
         "description": "第259問 退路封鎖の手筋⑳ 玉方の強力な守備馬を逆用します。",
         "initialSfen": "9/6Sk1/5+B3/9/6+b1L/9/9/9/9 b NP2r4g3s3n3l17p 1",
         "solution": [
@@ -1753,8 +1863,8 @@
         ]
       },
       {
-        "id": 39,
-        "title": "問題３８",
+        "id": 40,
+        "title": "第40問",
         "description": "第260問 退路封鎖の手筋㉑ １筋から上部に逃げ出されないように工夫します。",
         "initialSfen": "7kl/6R2/6P2/9/6L2/9/9/9/9 b Sr2b4g3s4n2l17p 1",
         "solution": [
@@ -1812,8 +1922,8 @@
         ]
       },
       {
-        "id": 40,
-        "title": "問題３９",
+        "id": 41,
+        "title": "第41問",
         "description": "第261問 邪魔駒消去の手筋① 「邪魔駒を消す」のも重要な詰め手筋です。本問では２三飛が邪魔駒ですが……。",
         "initialSfen": "6snl/8k/5+R1R1/7P1/9/9/9/9/9 b 2b4g3s3n3l17p 1",
         "solution": [
@@ -1853,8 +1963,8 @@
         ]
       },
       {
-        "id": 41,
-        "title": "問題４０",
+        "id": 42,
+        "title": "第42問",
         "description": "第262問 邪魔駒消去の手筋② うまく銀を処分して、飛車を活用してください。",
         "initialSfen": "8l/7R1/7Sk/9/7P1/9/9/9/9 b r2b4g3s4n3l17p 1",
         "solution": [
@@ -1894,8 +2004,8 @@
         ]
       },
       {
-        "id": 42,
-        "title": "問題４１",
+        "id": 43,
+        "title": "第43問",
         "description": "第263問 邪魔駒消去の手筋③ ３二の飛車が急所の馬の利きを止めています。うまく解消してください。",
         "initialSfen": "5+Bsnl/6R2/8k/7P1/9/9/9/9/9 b rb4g3s3n3l17p 1",
         "solution": [
@@ -1935,8 +2045,8 @@
         ]
       },
       {
-        "id": 43,
-        "title": "問題４２",
+        "id": 44,
+        "title": "第44問",
         "description": "第264問 邪魔駒消去の手筋④ 金、銀が重い形です。どちらかの駒を解消して馬を活用します。",
         "initialSfen": "5+B2l/5g1G1/7Sk/7p1/9/9/9/9/9 b 2rb2g3s4n3l17p 1",
         "solution": [
@@ -1976,8 +2086,8 @@
         ]
       },
       {
-        "id": 44,
-        "title": "問題４３",
+        "id": 45,
+        "title": "第45問",
         "description": "第265問 邪魔駒消去の手筋⑤ ３二飛が邪魔駒のようです。どのように処理したらよいでしょうか。",
         "initialSfen": "6+B1l/6R2/5S1k1/5p1pL/9/9/9/9/9 b rb4g3s4n2l16p 1",
         "solution": [
@@ -2017,8 +2127,8 @@
         ]
       },
       {
-        "id": 45,
-        "title": "問題４４",
+        "id": 46,
+        "title": "第46問",
         "description": "第266問 邪魔駒消去の手筋⑥ 持駒の桂を使いたいのですが、打ち場所を作ってください。",
         "initialSfen": "6+Bnl/8k/9/6SB1/9/9/9/9/9 b N2r4g3s2n3l18p 1",
         "solution": [
@@ -2054,8 +2164,8 @@
         ]
       },
       {
-        "id": 46,
-        "title": "問題４５",
+        "id": 47,
+        "title": "第47問",
         "description": "第267問 邪魔駒消去の手筋⑦ 桂の打ち場所を作りたいのですが、邪魔駒をどのように捨てるべきでしょうか？",
         "initialSfen": "7kl/5+r2b/6+R1B/9/9/9/9/9/9 b Nr4g4s3n3l18p 1",
         "solution": [
@@ -2091,8 +2201,8 @@
         ]
       },
       {
-        "id": 47,
-        "title": "問題４６",
+        "id": 48,
+        "title": "第48問",
         "description": "第268問 邪魔駒消去の手筋⑧ ４一角は大事な攻め駒です。３二飛が居なければ腹金が打てます。",
         "initialSfen": "5B1n1/6R2/8k/8p/9/9/9/9/9 b Grb3g4s3n4l17p 1",
         "solution": [
@@ -2128,8 +2238,8 @@
         ]
       },
       {
-        "id": 48,
-        "title": "問題４７",
+        "id": 49,
+        "title": "第49問",
         "description": "第269問 邪魔駒消去の手筋⑨ ２五の飛車が居なければ金打ちまでの詰みです。",
         "initialSfen": "8l/7+P1/5r+b1p/8k/7R1/7P1/9/9/9 b Gb3g4s4n3l15p 1",
         "solution": [
@@ -2165,8 +2275,8 @@
         ]
       },
       {
-        "id": 49,
-        "title": "問題４８",
+        "id": 50,
+        "title": "第50問",
         "description": "第270問 邪魔駒消去の手筋⑩ と金と角、不要な駒はどちらでしょうか？",
         "initialSfen": "7n1/6sB+P/6pk1/9/6P1P/9/9/9/9 b Rrb4g3s3n4l14p 1",
         "solution": [
@@ -2202,8 +2312,8 @@
         ]
       },
       {
-        "id": 50,
-        "title": "問題４９",
+        "id": 51,
+        "title": "第51問",
         "description": "第271問 邪魔駒消去の手筋⑪ 意外にも２二の飛車が居なければ１手詰めです。",
         "initialSfen": "9/6sRl/6p1k/8+b/6P2/7L1/9/9/9 b BSr4g2s4n2l16p 1",
         "solution": [
@@ -2257,8 +2367,8 @@
         ]
       },
       {
-        "id": 51,
-        "title": "問題５０",
+        "id": 52,
+        "title": "第52問",
         "description": "第272問 邪魔駒消去の手筋⑫ 「腹金」の詰み形を作ります。",
         "initialSfen": "7+Rl/5r3/6nPk/6ppp/9/9/9/9/9 b GS2b3g3s3n3l14p 1",
         "solution": [
@@ -2312,8 +2422,8 @@
         ]
       },
       {
-        "id": 52,
-        "title": "問題５１",
+        "id": 53,
+        "title": "第53問",
         "description": "第273問 邪魔駒消去の手筋⑬ ３三の馬が居なくなれば飛車の侵入が叶いますが、簡単ではありません。",
         "initialSfen": "7kl/9/6+Bpp/5+b3/6R2/6L2/9/9/9 b r4g4s4n2l16p 1",
         "solution": [
@@ -2375,8 +2485,8 @@
         ]
       },
       {
-        "id": 53,
-        "title": "問題５２",
+        "id": 54,
+        "title": "第54問",
         "description": "第274問 邪魔駒消去の手筋⑭ 邪魔駒が２四歩なのは一目瞭然です。最終的には竜と角の連携で詰まします。",
         "initialSfen": "7p1/8k/6+R2/7P1/6B2/9/9/9/9 b rb4g4s4n4l16p 1",
         "solution": [
@@ -2438,8 +2548,8 @@
         ]
       },
       {
-        "id": 54,
-        "title": "問題５３",
+        "id": 55,
+        "title": "第55問",
         "description": "第275問 邪魔駒消去の手筋⑮ ３枚の攻め駒が渋滞しています。１枚捨ててスッキリさせましょう。",
         "initialSfen": "9/8k/6R2/5BNp1/9/9/9/9/9 b rb4g4s3n4l17p 1",
         "solution": [
@@ -2501,8 +2611,8 @@
         ]
       },
       {
-        "id": 55,
-        "title": "問題５４",
+        "id": 56,
+        "title": "第56問",
         "description": "第276問 邪魔駒消去の手筋⑯ 歩が邪魔駒です。うまく取り除いてください。",
         "initialSfen": "9/6g2/6nkP/6s2/5bB2/9/9/9/9 b RGr2g3s3n4l17p 1",
         "solution": [
@@ -2600,8 +2710,8 @@
         ]
       },
       {
-        "id": 56,
-        "title": "問題５５",
+        "id": 57,
+        "title": "第57問",
         "description": "第277問 邪魔駒消去の手筋⑰ ３三歩が居なければ金打ちまでです。",
         "initialSfen": "9/8l/5bPkn/5pp1p/8B/9/9/9/9 b RGr3g4s3n3l14p 1",
         "solution": [
@@ -2655,8 +2765,8 @@
         ]
       },
       {
-        "id": 57,
-        "title": "問題５６",
+        "id": 58,
+        "title": "第58問",
         "description": "第278問 邪魔駒消去の手筋⑱ １三の桂が中途半端な駒になっています。",
         "initialSfen": "6+B1l/8k/6g1N/7p1/7n1/9/9/9/9 b RGrb2g4s2n3l17p 1",
         "solution": [
@@ -2710,8 +2820,8 @@
         ]
       },
       {
-        "id": 58,
-        "title": "問題５７",
+        "id": 59,
+        "title": "第59問",
         "description": "第279問 邪魔駒消去の手筋⑲ １二歩が居なければ☗１二馬の１手詰めですが、容易ではありません。",
         "initialSfen": "6sk1/8P/6+b1+B/7N1/9/9/9/9/9 b N2r4g3s2n4l17p 1",
         "solution": [
@@ -2769,8 +2879,8 @@
         ]
       },
       {
-        "id": 59,
-        "title": "問題５８",
+        "id": 60,
+        "title": "第60問",
         "description": "第280問 邪魔駒消去の手筋⑳ 意外にも邪魔な攻め駒は２四桂です。",
         "initialSfen": "7nl/5Ssk1/8P/7Np/7P1/9/9/9/9 b GN2r2b3g2sn3l15p 1",
         "solution": [
@@ -2850,8 +2960,8 @@
         ]
       },
       {
-        "id": 60,
-        "title": "問題５９",
+        "id": 61,
+        "title": "第61問",
         "description": "第281問 邪魔駒消去の手筋㉑ 邪魔駒は１四桂ですが、成り捨てることはできません。",
         "initialSfen": "5b2l/6+B+P1/8k/7sN/7pp/9/9/9/9 b L2r4g3s3n2l15p 1",
         "solution": [
@@ -2909,987 +3019,6 @@
         ]
       }
     ],
-    "timestamp": 1792585698920
-  },
-  {
-    "id": "1792511551043",
-    "title": "©kiryoアプリ　実戦頻出詰将棋① (2026/10/21)",
-    "appTitle": "©kiryoアプリ　実戦頻出詰将棋①",
-    "clearUrl": "https://service-8830.ai.studio/complete?book=60-1",
-    "problems": [
-      {
-        "id": 2,
-        "title": "問題１",
-        "description": "第221問 一間竜の基本① まずは「一間竜」の手筋を扱います。横の筋から攻める一間竜で攻略しましょう。",
-        "initialSfen": "6+R2/7+P1/8k/8p/9/9/9/9/9 b r2b4g4s4n4l16p 1",
-        "solution": [
-          {
-            "from": {
-              "x": 3,
-              "y": 1
-            },
-            "to": {
-              "x": 3,
-              "y": 3
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 2,
-              "y": 3
-            },
-            "piece": "KA"
-          },
-          {
-            "from": {
-              "x": 3,
-              "y": 3
-            },
-            "to": {
-              "x": 2,
-              "y": 3
-            },
-            "promote": false
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "title": "問題２",
-        "description": "第222問 一間竜の基本② 前問と似ていますが玉方の歩の位置が違います。同様に攻めてよいでしょうか。",
-        "initialSfen": "6+R2/7+P1/8k/7p1/9/9/9/9/9 b r2b4g4s4n4l16p 1",
-        "solution": [
-          {
-            "from": {
-              "x": 3,
-              "y": 1
-            },
-            "to": {
-              "x": 1,
-              "y": 1
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 1,
-              "y": 2
-            },
-            "piece": "KI"
-          },
-          {
-            "from": {
-              "x": 1,
-              "y": 1
-            },
-            "to": {
-              "x": 1,
-              "y": 2
-            },
-            "promote": false
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "title": "問題３",
-        "description": "第223問 一間竜の基本③ と金と竜の協力形で詰まします。",
-        "initialSfen": "4+R1+Pnl/7k1/7pp/9/9/9/9/9/9 b r2b4g4s3n3l15p 1",
-        "solution": [
-          {
-            "from": {
-              "x": 5,
-              "y": 1
-            },
-            "to": {
-              "x": 4,
-              "y": 2
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 3,
-              "y": 2
-            },
-            "piece": "KE"
-          },
-          {
-            "from": {
-              "x": 4,
-              "y": 2
-            },
-            "to": {
-              "x": 3,
-              "y": 2
-            },
-            "promote": false
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "title": "問題４",
-        "description": "第224問 一間竜の基本④ 意表の王手があります。",
-        "initialSfen": "7gk/8l/6+R2/5B3/9/9/9/9/9 b rb3g4s4n3l18p 1",
-        "solution": [
-          {
-            "from": {
-              "x": 3,
-              "y": 3
-            },
-            "to": {
-              "x": 3,
-              "y": 1
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 2,
-              "y": 2
-            },
-            "piece": "KY"
-          },
-          {
-            "from": {
-              "x": 4,
-              "y": 4
-            },
-            "to": {
-              "x": 2,
-              "y": 2
-            },
-            "promote": true
-          }
-        ]
-      },
-      {
-        "id": 6,
-        "title": "問題５",
-        "description": "第225問 一間竜の基本⑤ 前問と似た形ですが……。",
-        "initialSfen": "7bk/8g/6+R2/5B3/9/9/9/9/9 b r3g4s4n4l18p 1",
-        "solution": [
-          {
-            "from": {
-              "x": 3,
-              "y": 3
-            },
-            "to": {
-              "x": 1,
-              "y": 3
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 2,
-              "y": 2
-            },
-            "piece": "GI"
-          },
-          {
-            "from": {
-              "x": 4,
-              "y": 4
-            },
-            "to": {
-              "x": 2,
-              "y": 2
-            },
-            "promote": true
-          }
-        ]
-      },
-      {
-        "id": 7,
-        "title": "問題６",
-        "description": "第226問 一間竜の基本⑥ 縦に使う一間竜で仕留めてください。",
-        "initialSfen": "7kl/9/5+R3/9/9/9/9/9/9 b Gr2b3g4s4n3l18p 1",
-        "solution": [
-          {
-            "from": {
-              "x": 4,
-              "y": 3
-            },
-            "to": {
-              "x": 2,
-              "y": 3
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 2,
-              "y": 2
-            },
-            "piece": "KI"
-          },
-          {
-            "to": {
-              "x": 3,
-              "y": 2
-            },
-            "piece": "KI"
-          }
-        ]
-      },
-      {
-        "id": 8,
-        "title": "問題７",
-        "description": "第227問 一間竜の基本⑦ 一間竜から銀打ちを決め手にしてくださ い。",
-        "initialSfen": "5+R2l/8k/8p/8s/9/9/9/9/9 b Sr2b4g2s4n3l18p 1",
-        "solution": [
-          {
-            "from": {
-              "x": 4,
-              "y": 1
-            },
-            "to": {
-              "x": 3,
-              "y": 2
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 2,
-              "y": 2
-            },
-            "piece": "KI"
-          },
-          {
-            "to": {
-              "x": 2,
-              "y": 1
-            },
-            "piece": "GI"
-          }
-        ]
-      },
-      {
-        "id": 9,
-        "title": "問題８",
-        "description": "第228問 一間竜の基本⑧ 一間竜から桂打ちを決め手にしてくださ い。",
-        "initialSfen": "8k/7P1/6+R2/9/9/9/9/9/9 b Nr2b4g4s3n4l17p 1",
-        "solution": [
-          {
-            "from": {
-              "x": 3,
-              "y": 3
-            },
-            "to": {
-              "x": 1,
-              "y": 3
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 1,
-              "y": 2
-            },
-            "piece": "GI"
-          },
-          {
-            "to": {
-              "x": 2,
-              "y": 3
-            },
-            "piece": "KE"
-          }
-        ]
-      },
-      {
-        "id": 10,
-        "title": "問題９",
-        "description": "第229問 一間竜の応用① 一間竜で強力な馬の守りをかいくぐって ください。",
-        "initialSfen": "8l/8k/5+R3/5+b2P/9/9/9/9/9 b Lrb4g4s4n2l17p 1",
-        "solution": [
-          {
-            "from": {
-              "x": 4,
-              "y": 3
-            },
-            "to": {
-              "x": 3,
-              "y": 2
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 2,
-              "y": 2
-            },
-            "piece": "GI"
-          },
-          {
-            "to": {
-              "x": 1,
-              "y": 3
-            },
-            "piece": "KY"
-          }
-        ]
-      },
-      {
-        "id": 11,
-        "title": "問題１０",
-        "description": "第230問 一間竜の応用② 必殺の角打ちがあります。３手目に一間竜の形を作ってください。",
-        "initialSfen": "5R3/6k1+P/6n2/6p1p/9/9/9/9/9 b Brb4g4s3n4l15p 1",
-        "solution": [
-          {
-            "to": {
-              "x": 2,
-              "y": 3
-            },
-            "piece": "KA"
-          },
-          {
-            "from": {
-              "x": 3,
-              "y": 2
-            },
-            "to": {
-              "x": 2,
-              "y": 3
-            },
-            "promote": false
-          },
-          {
-            "from": {
-              "x": 4,
-              "y": 1
-            },
-            "to": {
-              "x": 2,
-              "y": 1
-            },
-            "promote": true
-          },
-          {
-            "to": {
-              "x": 2,
-              "y": 2
-            },
-            "piece": "FU"
-          },
-          {
-            "from": {
-              "x": 2,
-              "y": 1
-            },
-            "to": {
-              "x": 2,
-              "y": 2
-            },
-            "promote": false
-          }
-        ]
-      },
-      {
-        "id": 12,
-        "title": "問題１１",
-        "description": "第231問 一間竜の応用③ 本問でも一間竜が登場します。",
-        "initialSfen": "7kl/5bg2/5R3/7Np/9/9/9/9/9 b Grb2g4s3n3l17p 1",
-        "solution": [
-          {
-            "from": {
-              "x": 4,
-              "y": 3
-            },
-            "to": {
-              "x": 2,
-              "y": 3
-            },
-            "promote": true
-          },
-          {
-            "from": {
-              "x": 3,
-              "y": 2
-            },
-            "to": {
-              "x": 2,
-              "y": 3
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 3,
-              "y": 2
-            },
-            "piece": "KI"
-          }
-        ]
-      },
-      {
-        "id": 13,
-        "title": "問題１２",
-        "description": "第232問 一間竜の応用④ 二枚竜は強力ですが、追い方を誤ると詰まし損ねます。正しい迫り方は？",
-        "initialSfen": "7kl/4+R4/8p/5+R3/4b4/9/9/9/9 b b4g4s4n3l17p 1",
-        "solution": [
-          {
-            "from": {
-              "x": 4,
-              "y": 4
-            },
-            "to": {
-              "x": 4,
-              "y": 1
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 3,
-              "y": 1
-            },
-            "piece": "FU"
-          },
-          {
-            "from": {
-              "x": 5,
-              "y": 2
-            },
-            "to": {
-              "x": 3,
-              "y": 2
-            },
-            "promote": false
-          }
-        ]
-      },
-      {
-        "id": 14,
-        "title": "問題１３",
-        "description": "第233問 一間竜の応用⑤ テクニカルに追いかけます。",
-        "initialSfen": "7n1/8k/9/6+R2/7pp/9/9/9/9 b Gr2b3g4s3n4l16p 1",
-        "solution": [
-          {
-            "from": {
-              "x": 3,
-              "y": 4
-            },
-            "to": {
-              "x": 3,
-              "y": 2
-            },
-            "promote": false
-          },
-          {
-            "from": {
-              "x": 1,
-              "y": 2
-            },
-            "to": {
-              "x": 1,
-              "y": 3
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 2,
-              "y": 3
-            },
-            "piece": "KI"
-          },
-          {
-            "from": {
-              "x": 1,
-              "y": 3
-            },
-            "to": {
-              "x": 1,
-              "y": 4
-            },
-            "promote": false
-          },
-          {
-            "from": {
-              "x": 3,
-              "y": 2
-            },
-            "to": {
-              "x": 3,
-              "y": 4
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 2,
-              "y": 4
-            },
-            "piece": "KE"
-          },
-          {
-            "from": {
-              "x": 3,
-              "y": 4
-            },
-            "to": {
-              "x": 2,
-              "y": 4
-            },
-            "promote": false
-          }
-        ]
-      },
-      {
-        "id": 15,
-        "title": "問題１４",
-        "description": "第234問 一間竜の応用⑥ 一間竜を繰り出すタイミングが問題です。",
-        "initialSfen": "5+R2l/7k1/8p/9/6p1P/8L/9/9/9 b Gr2b3g4s4n2l15p 1",
-        "solution": [
-          {
-            "from": {
-              "x": 4,
-              "y": 1
-            },
-            "to": {
-              "x": 4,
-              "y": 2
-            },
-            "promote": false
-          },
-          {
-            "from": {
-              "x": 2,
-              "y": 2
-            },
-            "to": {
-              "x": 2,
-              "y": 3
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 3,
-              "y": 3
-            },
-            "piece": "KI"
-          },
-          {
-            "from": {
-              "x": 2,
-              "y": 3
-            },
-            "to": {
-              "x": 2,
-              "y": 4
-            },
-            "promote": false
-          },
-          {
-            "from": {
-              "x": 4,
-              "y": 2
-            },
-            "to": {
-              "x": 2,
-              "y": 2
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 2,
-              "y": 3
-            },
-            "piece": "KE"
-          },
-          {
-            "from": {
-              "x": 2,
-              "y": 2
-            },
-            "to": {
-              "x": 2,
-              "y": 3
-            },
-            "promote": false
-          }
-        ]
-      },
-      {
-        "id": 16,
-        "title": "問題１５",
-        "description": "第235問 一間竜の応用⑦ 上部脱出に注意してください。",
-        "initialSfen": "6B1l/8k/6P2/5+R3/9/9/9/9/9 b rb4g4s4n3l17p 1",
-        "solution": [
-          {
-            "from": {
-              "x": 4,
-              "y": 4
-            },
-            "to": {
-              "x": 1,
-              "y": 4
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 1,
-              "y": 3
-            },
-            "piece": "FU"
-          },
-          {
-            "from": {
-              "x": 1,
-              "y": 4
-            },
-            "to": {
-              "x": 1,
-              "y": 3
-            },
-            "promote": false
-          },
-          {
-            "from": {
-              "x": 1,
-              "y": 2
-            },
-            "to": {
-              "x": 2,
-              "y": 1
-            },
-            "promote": false
-          },
-          {
-            "from": {
-              "x": 1,
-              "y": 3
-            },
-            "to": {
-              "x": 2,
-              "y": 2
-            },
-            "promote": false
-          }
-        ]
-      },
-      {
-        "id": 17,
-        "title": "問題１６",
-        "description": "第236問 一間竜の応用⑧ 玉方は「木村美濃」と呼ばれる形。堅そうな陣形ですが隙がありました。",
-        "initialSfen": "7nl/5+Rgk1/5s1pp/9/9/9/9/9/9 b Sr2b3g2s3n3l16p 1",
-        "solution": [
-          {
-            "to": {
-              "x": 3,
-              "y": 1
-            },
-            "piece": "GI"
-          },
-          {
-            "from": {
-              "x": 2,
-              "y": 2
-            },
-            "to": {
-              "x": 1,
-              "y": 2
-            },
-            "promote": false
-          },
-          {
-            "from": {
-              "x": 4,
-              "y": 2
-            },
-            "to": {
-              "x": 3,
-              "y": 2
-            },
-            "promote": false
-          },
-          {
-            "from": {
-              "x": 4,
-              "y": 3
-            },
-            "to": {
-              "x": 3,
-              "y": 2
-            },
-            "promote": false
-          },
-          {
-            "to": {
-              "x": 2,
-              "y": 2
-            },
-            "piece": "KI"
-          }
-        ]
-      },
-      {
-        "id": 18,
-        "title": "問題１７",
-        "description": "第237問 一間竜の応用⑨ 持駒の銀の使い方が問題です。",
-        "initialSfen": "6gkl/9/6+R2/5b2p/7N1/9/9/9/9 b Srb3g3s3n3l17p 1"
-      },
-      {
-        "id": 19,
-        "title": "問題１８",
-        "description": "第238問 一間竜の応用⑩ 一間竜で追い詰めてください。",
-        "initialSfen": "8+R/5g3/5pk1n/5+bp1p/7P1/9/9/9/9 b Srb3g3s3n4l14p 1"
-      },
-      {
-        "id": 20,
-        "title": "問題１９",
-        "description": "第239問 一間竜の応用⑪ 一間竜で追いかけます。銀を使うタイミングに注意してください。",
-        "initialSfen": "8k/6p2/5+R3/9/9/9/9/9/9 b Sr2b4g3s4n4l17p 1"
-      },
-      {
-        "id": 21,
-        "title": "問題２０",
-        "description": "第240問 退路封鎖の手筋① ここからは「退路封鎖」の手筋を扱います。犠打を放って上部脱出を防ぎます。",
-        "initialSfen": "6Bnl/8k/7p1/9/9/9/9/9/9 b GS2rb3g3s3n3l17p 1"
-      },
-      {
-        "id": 22,
-        "title": "問題２１",
-        "description": "第241問 退路封鎖の手筋② 角成を決め手にします。そのために事前工作が必要です。",
-        "initialSfen": "7+Pl/9/6Bpk/8p/9/9/9/9/9 b G2rb3g4s4n3l15p 1"
-      },
-      {
-        "id": 23,
-        "title": "問題２２",
-        "description": "第242問 退路封鎖の手筋③ 竜の守りが強く、上部に逃げ出されそうですが逆用してください。",
-        "initialSfen": "7nl/6+B2/6S1k/9/9/8+r/9/9/9 b Lrb4g3s3n2l18p 1"
-      },
-      {
-        "id": 24,
-        "title": "問題２３",
-        "description": "第243問 退路封鎖の手筋④ 金をとどめ以外に使うケースもあります。",
-        "initialSfen": "7R1/7Sk/9/9/6b2/9/9/9/9 b Grb3g3s4n4l18p 1"
-      },
-      {
-        "id": 25,
-        "title": "問題２４",
-        "description": "第244問 退路封鎖の手筋⑤ 守備馬を逆用します。",
-        "initialSfen": "8l/7+P1/9/6+B1k/8p/7+b1/9/9/9 b S2r4g3s4n3l16p 1"
-      },
-      {
-        "id": 26,
-        "title": "問題２５",
-        "description": "第245問 退路封鎖の手筋⑥ 単に☗２二飛成だと☖１四玉と逃げられます。策を練ってください。",
-        "initialSfen": "7+Pl/6b2/8k/7R1/6s2/9/9/9/9 b Rb4g3s4n3l17p 1"
-      },
-      {
-        "id": 27,
-        "title": "問題２６",
-        "description": "第246問 退路封鎖の手筋⑦ 馬で王手をかけたときに、玉が１四にも２四にも逃げられないようにします。",
-        "initialSfen": "7n1/5+B+B1l/7pk/9/9/9/9/9/9 b G2r3g4s3n3l17p 1"
-      },
-      {
-        "id": 28,
-        "title": "問題２７",
-        "description": "第247問 退路封鎖の手筋⑧ すぐ☗２一馬は☖１三玉と脱出されます。「玉の退路をふさぐ」手段は……。",
-        "initialSfen": "5R+Bnl/8k/7p1/7b1/9/9/9/9/9 b Gr3g4s3n3l17p 1"
-      },
-      {
-        "id": 29,
-        "title": "問題２８",
-        "description": "第248問 退路封鎖の手筋⑨ 玉方の馬を逆用して「打ち歩詰め」の打開を図ってください。",
-        "initialSfen": "9/7+P1/7Sk/9/7P1/5+b3/9/9/9 b BP2r4g3s4n4l15p 1"
-      },
-      {
-        "id": 30,
-        "title": "問題２９",
-        "description": "第249問 退路封鎖の手筋⑩ 本問も打ち歩詰め打開がテーマです。",
-        "initialSfen": "9/6+B1l/6S1k/9/6+b2/9/9/9/9 b NP2r4g3s3n3l17p 1"
-      },
-      {
-        "id": 31,
-        "title": "問題３０",
-        "description": "第250問 退路封鎖の手筋⑪ 打ち歩詰めを打開しながら、玉の退路も防ぐ手段は？",
-        "initialSfen": "9/7+P1/7Sk/7b1/9/8+b/9/9/9 b NP2r4g3s3n4l16p 1"
-      },
-      {
-        "id": 32,
-        "title": "問題３１",
-        "description": "第253問 退路封鎖の手筋⑭ 上部脱出を防ぐために事前工作をします。",
-        "initialSfen": "7kl/9/5pP+P1/9/6r2/9/9/9/9 b BNrb4g4s3n3l15p 1"
-      },
-      {
-        "id": 33,
-        "title": "問題３２",
-        "description": "第254問 退路封鎖の手筋⑮ 第252問と同じ詰み筋で迫りますが、３手目にちょっとした工夫が必要です。",
-        "initialSfen": "6+Bnl/8k/9/7r1/7B1/9/9/9/9 b GSr3g3s3n3l18p 1"
-      },
-      {
-        "id": 34,
-        "title": "問題３３",
-        "description": "第255問 退路封鎖の手筋⑯ ２六の竜を巧みに使い、打ち歩詰めを解消しながら上部脱出を防ぎます。",
-        "initialSfen": "9/8l/6+PSk/7p1/7g1/7+R1/9/9/9 b Pr2b3g3s4n3l15p 1"
-      },
-      {
-        "id": 35,
-        "title": "問題３４",
-        "description": "第256問 退路封鎖の手筋⑰ 玉を下段に逃がしてはいけません。中段のまま捕らえます。",
-        "initialSfen": "9/6g2/7pp/5+B1k1/9/7S1/9/9/9 b B2r3g3s4n4l16p 1"
-      },
-      {
-        "id": 36,
-        "title": "問題３５",
-        "description": "第257問 退路封鎖の手筋⑱ やはり捨て駒を放って玉の上部脱出を防ぎます。",
-        "initialSfen": "7nl/5B1kb/5S3/7g1/9/9/9/9/9 b GS2r2g2s3n3l18p 1"
-      },
-      {
-        "id": 37,
-        "title": "問題３６",
-        "description": "第258問 退路封鎖の手筋⑲ ☗１二銀成で仕留めたいですが、現状は☖１四玉と逃げられます。",
-        "initialSfen": "9/9/7Sk/6+B2/8p/7+b1/9/9/9 b NP2r4g3s3n4l16p 1"
-      },
-      {
-        "id": 38,
-        "title": "問題３７",
-        "description": "第259問 退路封鎖の手筋⑳ 玉方の強力な守備馬を逆用します。",
-        "initialSfen": "9/6Sk1/5+B3/9/6+b1L/9/9/9/9 b NP2r4g3s3n3l17p 1"
-      },
-      {
-        "id": 39,
-        "title": "問題３８",
-        "description": "第260問 退路封鎖の手筋㉑ １筋から上部に逃げ出されないように工夫します。",
-        "initialSfen": "7kl/6R2/6P2/9/6L2/9/9/9/9 b Sr2b4g3s4n2l17p 1"
-      },
-      {
-        "id": 40,
-        "title": "問題３９",
-        "description": "第261問 邪魔駒消去の手筋① 「邪魔駒を消す」のも重要な詰め手筋です。本問では２三飛が邪魔駒ですが……。",
-        "initialSfen": "6snl/8k/5+R1R1/7P1/9/9/9/9/9 b 2b4g3s3n3l17p 1"
-      },
-      {
-        "id": 41,
-        "title": "問題４０",
-        "description": "第262問 邪魔駒消去の手筋② うまく銀を処分して、飛車を活用してください。",
-        "initialSfen": "8l/7R1/7Sk/9/7P1/9/9/9/9 b r2b4g3s4n3l17p 1"
-      },
-      {
-        "id": 42,
-        "title": "問題４１",
-        "description": "第263問 邪魔駒消去の手筋③ ３二の飛車が急所の馬の利きを止めています。うまく解消してください。",
-        "initialSfen": "5+Bsnl/6R2/8k/7P1/9/9/9/9/9 b rb4g3s3n3l17p 1"
-      },
-      {
-        "id": 43,
-        "title": "問題４２",
-        "description": "第264問 邪魔駒消去の手筋④ 金、銀が重い形です。どちらかの駒を解消して馬を活用します。",
-        "initialSfen": "5+B2l/5g1G1/7Sk/7p1/9/9/9/9/9 b 2rb2g3s4n3l17p 1"
-      },
-      {
-        "id": 44,
-        "title": "問題４３",
-        "description": "第265問 邪魔駒消去の手筋⑤ ３二飛が邪魔駒のようです。どのように処理したらよいでしょうか。",
-        "initialSfen": "6+B1l/6R2/5S1k1/5p1pL/9/9/9/9/9 b rb4g3s4n2l16p 1"
-      },
-      {
-        "id": 45,
-        "title": "問題４４",
-        "description": "第266問 邪魔駒消去の手筋⑥ 持駒の桂を使いたいのですが、打ち場所を作ってください。",
-        "initialSfen": "6+Bnl/8k/9/6SB1/9/9/9/9/9 b N2r4g3s2n3l18p 1"
-      },
-      {
-        "id": 46,
-        "title": "問題４５",
-        "description": "第267問 邪魔駒消去の手筋⑦ 桂の打ち場所を作りたいのですが、邪魔駒をどのように捨てるべきでしょうか？",
-        "initialSfen": "7kl/5+r2b/6+R1B/9/9/9/9/9/9 b Nr4g4s3n3l18p 1"
-      },
-      {
-        "id": 47,
-        "title": "問題４６",
-        "description": "第268問 邪魔駒消去の手筋⑧ ４一角は大事な攻め駒です。３二飛が居なければ腹金が打てます。",
-        "initialSfen": "5B1n1/6R2/8k/8p/9/9/9/9/9 b Grb3g4s3n4l17p 1"
-      },
-      {
-        "id": 48,
-        "title": "問題４７",
-        "description": "第269問 邪魔駒消去の手筋⑨ ２五の飛車が居なければ金打ちまでの詰みです。",
-        "initialSfen": "8l/7+P1/5r+b1p/8k/7R1/7P1/9/9/9 b Gb3g4s4n3l15p 1"
-      },
-      {
-        "id": 49,
-        "title": "問題４８",
-        "description": "第270問 邪魔駒消去の手筋⑩ と金と角、不要な駒はどちらでしょうか？",
-        "initialSfen": "7n1/6sB+P/6pk1/9/6P1P/9/9/9/9 b Rrb4g3s3n4l14p 1"
-      },
-      {
-        "id": 50,
-        "title": "問題４９",
-        "description": "第271問 邪魔駒消去の手筋⑪ 意外にも２二の飛車が居なければ１手詰めです。",
-        "initialSfen": "9/6sRl/6p1k/8+b/6P2/7L1/9/9/9 b BSr4g2s4n2l16p 1"
-      },
-      {
-        "id": 51,
-        "title": "問題５０",
-        "description": "第272問 邪魔駒消去の手筋⑫ 「腹金」の詰み形を作ります。",
-        "initialSfen": "7+Rl/5r3/6nPk/6ppp/9/9/9/9/9 b GS2b3g3s3n3l14p 1"
-      },
-      {
-        "id": 52,
-        "title": "問題５１",
-        "description": "第273問 邪魔駒消去の手筋⑬ ３三の馬が居なくなれば飛車の侵入が叶いますが、簡単ではありません。",
-        "initialSfen": "7kl/9/6+Bpp/5+b3/6R2/6L2/9/9/9 b r4g4s4n2l16p 1"
-      },
-      {
-        "id": 53,
-        "title": "問題５２",
-        "description": "第274問 邪魔駒消去の手筋⑭ 邪魔駒が２四歩なのは一目瞭然です。最終的には竜と角の連携で詰まします。",
-        "initialSfen": "7p1/8k/6+R2/7P1/6B2/9/9/9/9 b rb4g4s4n4l16p 1"
-      },
-      {
-        "id": 54,
-        "title": "問題５３",
-        "description": "第275問 邪魔駒消去の手筋⑮ ３枚の攻め駒が渋滞しています。１枚捨ててスッキリさせましょう。",
-        "initialSfen": "9/8k/6R2/5BNp1/9/9/9/9/9 b rb4g4s3n4l17p 1"
-      },
-      {
-        "id": 55,
-        "title": "問題５４",
-        "description": "第276問 邪魔駒消去の手筋⑯ 歩が邪魔駒です。うまく取り除いてください。",
-        "initialSfen": "9/6g2/6nkP/6s2/5bB2/9/9/9/9 b RGr2g3s3n4l17p 1"
-      },
-      {
-        "id": 56,
-        "title": "問題５５",
-        "description": "第277問 邪魔駒消去の手筋⑰ ３三歩が居なければ金打ちまでです。",
-        "initialSfen": "9/8l/5bPkn/5pp1p/8B/9/9/9/9 b RGr3g4s3n3l14p 1"
-      },
-      {
-        "id": 57,
-        "title": "問題５６",
-        "description": "第278問 邪魔駒消去の手筋⑱ １三の桂が中途半端な駒になっています。",
-        "initialSfen": "6+B1l/8k/6g1N/7p1/7n1/9/9/9/9 b RGrb2g4s2n3l17p 1"
-      },
-      {
-        "id": 58,
-        "title": "問題５７",
-        "description": "第279問 邪魔駒消去の手筋⑲ １二歩が居なければ☗１二馬の１手詰めですが、容易ではありません。",
-        "initialSfen": "6sk1/8P/6+b1+B/7N1/9/9/9/9/9 b N2r4g3s2n4l17p 1"
-      },
-      {
-        "id": 59,
-        "title": "問題５８",
-        "description": "第280問 邪魔駒消去の手筋⑳ 意外にも邪魔な攻め駒は２四桂です。",
-        "initialSfen": "7nl/5Ssk1/8P/7Np/7P1/9/9/9/9 b GN2r2b3g2sn3l15p 1"
-      },
-      {
-        "id": 60,
-        "title": "問題５９",
-        "description": "第281問 邪魔駒消去の手筋㉑ 邪魔駒は１四桂ですが、成り捨てることはできません。",
-        "initialSfen": "5b2l/6+B+P1/8k/7sN/7pp/9/9/9/9 b L2r4g3s3n2l15p 1"
-      }
-    ],
-    "timestamp": 1792511551043
+    "timestamp": 1792588356247
   }
 ]
