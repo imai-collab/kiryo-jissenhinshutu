@@ -3401,5 +3401,356 @@
       }
     ],
     "timestamp": 1792592067058
+  },
+  {
+    "id": "1792672125722",
+    "title": "©kiryoアプリ　実戦頻出詰将棋③ (2026/10/22)",
+    "appTitle": "©kiryoアプリ　実戦頻出詰将棋③",
+    "clearUrl": "https://service-8830.ai.studio/complete?book=60-1",
+    "problems": [
+      {
+        "id": 1,
+        "title": "第1問",
+        "description": "7節 金と桂の連携\n第 344 問 金と桂の連携①\n金と桂は相性のよい駒です。桂で玉のコビンをこじ開けて金打ちを狙います。",
+        "initialSfen": "7nl/8k/7pp/9/6N2/9/9/9/9 b GN2r2b3g4sn3l16p 1"
+      },
+      {
+        "id": 2,
+        "title": "第2問",
+        "description": "第 345 問 金と桂の連携②\n金と桂の相性は抜群です。左右どちらから桂を打ちますか？",
+        "initialSfen": "6bnl/4+P1k2/6ppp/9/6N2/9/9/9/9 b GN2rb3g4sn3l14p 1"
+      },
+      {
+        "id": 3,
+        "title": "第3問",
+        "description": "第 346 問 金と桂の連携③\n桂の犠打で守備金を無効化します。",
+        "initialSfen": "7nl/6Pk1/6g2/7S1/9/9/9/9/9 b GN2r2b2g3s2n3l17p 1"
+      },
+      {
+        "id": 4,
+        "title": "第4問",
+        "description": "第 347 問 金と桂の連携④\n初手は慎重に王手を掛けてください。",
+        "initialSfen": "7k1/8l/7G1/5+b1N1/9/9/9/9/9 b N2rb3g4s2n3l18p 1"
+      },
+      {
+        "id": 5,
+        "title": "第5問",
+        "description": "第 348 問 金と桂の連携⑤\n下段に逃げられないよう、ベタっと金打ちで支えてください。",
+        "initialSfen": "7n1/6+P2/7k1/8p/6S2/9/9/9/9 b GN2r2b3g3s2n4l16p 1"
+      },
+      {
+        "id": 6,
+        "title": "第6問",
+        "description": "第 349 問 金と桂の連携⑥\n初手☗３二とで金を取っての王手は詰みません。桂の使い方がポイントです。",
+        "initialSfen": "7kl/6g2/7+P1/9/5N3/9/9/9/9 b G2r2b2g4s3n3l17p 1"
+      },
+      {
+        "id": 7,
+        "title": "第7問",
+        "description": "第 350 問 金と桂の連携⑦\n足掛かりにする桂の打ち場所を工夫して作ってください。",
+        "initialSfen": "5g1nl/7k1/5p1p1/6G2/7N1/9/9/9/9 b GN2r2bg4sn3l16p 1"
+      },
+      {
+        "id": 8,
+        "title": "第8問",
+        "description": "第 351 問 金と桂の連携⑧\n何度でも出てきた金と桂の連携の手筋です。",
+        "initialSfen": "8k/6g1l/7P1/9/5N3/9/9/9/9 b 2G2r2bg4s3n3l17p 1"
+      },
+      {
+        "id": 9,
+        "title": "第9問",
+        "description": "第 352 問 金と桂の連携⑨\n１手ずつ玉を左辺に誘い出して、桂と金の連携で詰まします。",
+        "initialSfen": "8k/6g1l/9/5rN2/9/9/9/9/9 b RGN2b2g4s2n3l18p 1"
+      },
+      {
+        "id": 10,
+        "title": "第10問",
+        "description": "第 353 問 金と桂の連携⑩\n本問でもあの詰み形に誘導します。",
+        "initialSfen": "8l/6g1k/7p1/8G/7N1/9/9/9/9 b G2r2bg4s3n3l17p 1"
+      },
+      {
+        "id": 11,
+        "title": "第11問",
+        "description": "第 354 問 金と桂の連携⑪\n金を投入して、桂はとどめに使います。",
+        "initialSfen": "7k1/8l/7+P1/5b3/9/9/9/9/9 b GN2rb3g4s3n3l17p 1"
+      },
+      {
+        "id": 12,
+        "title": "第12問",
+        "description": "第 355 問 金と桂の連携⑫\n美濃囲い攻略の実戦図です。持駒に金がなくても諦めてはいけません。",
+        "initialSfen": "5g1nl/6sk1/5R2P/9/9/9/9/9/9 b Nr2b3g3s2n3l17p 1"
+      },
+      {
+        "id": 13,
+        "title": "第13問",
+        "description": "第 356 問 金と桂の連携⑬\n角筋を生かして桂で王手を掛け、足掛かりを作ります。",
+        "initialSfen": "7nl/4R1gk1/4p1ppp/5B3/9/9/9/9/9 b Nrb3g4s2n3l14p 1"
+      },
+      {
+        "id": 14,
+        "title": "第14問",
+        "description": "第 357 問 金と桂の連携⑭\n持駒の桂を急所に打ち据えてください。",
+        "initialSfen": "7nl/7sk/9/7BP/6N2/9/9/9/9 b GN2rb3g3sn3l17p 1"
+      },
+      {
+        "id": 15,
+        "title": "第15問",
+        "description": "第 358 問 金と桂の連携⑮\n３五桂は上部を押さえるだけでなく、とどめにも活躍します。",
+        "initialSfen": "7n1/4G1k2/5Pb2/9/6N2/9/9/9/9 b G2rb2g4s2n4l17p 1"
+      },
+      {
+        "id": 16,
+        "title": "第16問",
+        "description": "第 359 問 金と桂の連携⑯\n初手に軽い手があります。駒を取りながらの攻めは感心しません。",
+        "initialSfen": "5G1k1/7br/7+P1/9/9/9/9/9/9 b GNrb2g4s3n4l17p 1"
+      },
+      {
+        "id": 17,
+        "title": "第17問",
+        "description": "第 360 問 金と桂の連携⑰\n初手を間違わないように。銀の隙を作ります。",
+        "initialSfen": "7k1/5+P1sl/9/9/7N1/9/9/9/9 b GN2r2b3g3s2n3l17p 1"
+      },
+      {
+        "id": 18,
+        "title": "第18問",
+        "description": "8節 大駒の連携\n第 361 問 大駒の連携①\n本問からは大駒の連携による詰みを扱います。",
+        "initialSfen": "6Bnl/8k/7p1/7b1/9/9/9/9/9 b Rr4g4s3n3l17p 1"
+      },
+      {
+        "id": 19,
+        "title": "第19問",
+        "description": "第 362 問 大駒の連携②\n３枚の攻め駒を連結させる一手は？",
+        "initialSfen": "7+B1/9/6kP1/5R3/9/9/9/9/9 b rb4g4s4n4l17p 1"
+      },
+      {
+        "id": 20,
+        "title": "第20問",
+        "description": "第 363 問 大駒の連携③\n短く竜を使います。",
+        "initialSfen": "6+B1l/5+R3/7k1/7pp/9/9/9/9/9 b rb4g4s4n3l16p 1"
+      },
+      {
+        "id": 21,
+        "title": "第21問",
+        "description": "第 364 問 大駒の連携④\n３枚の攻め駒を連絡させるピッタリした一手があります。",
+        "initialSfen": "6R2/7k1/9/9/6BN1/9/9/9/9 b rb4g4s3n4l18p 1"
+      },
+      {
+        "id": 22,
+        "title": "第22問",
+        "description": "第 365 問 大駒の連携⑤\n一間竜の形を作って詰ましてください。",
+        "initialSfen": "7kl/5R1s1/9/5b2B/9/9/9/9/9 b r4g3s4n3l18p 1"
+      },
+      {
+        "id": 23,
+        "title": "第23問",
+        "description": "第 366 問 大駒の連携⑥\n飛車を取られないように迫ります。",
+        "initialSfen": "7+P1/8l/6k2/5Rbpp/9/9/9/9/9 b Br4g4s4n3l15p 1"
+      },
+      {
+        "id": 24,
+        "title": "第24問",
+        "description": "第 367 問 大駒の連携⑦\n馬は動かしません。竜の上下運動で捕らえます。",
+        "initialSfen": "5+B3/7kp/9/9/6+R2/9/9/9/9 b rb4g4s4n4l17p 1"
+      },
+      {
+        "id": 25,
+        "title": "第25問",
+        "description": "第 368 問 大駒の連携⑧\n玉を吊り上げて大駒を生かせる形にします。",
+        "initialSfen": "5B1n1/8s/6+Rpk/9/7PP/9/9/9/9 b rb4g3s3n4l15p 1"
+      },
+      {
+        "id": 26,
+        "title": "第26問",
+        "description": "第 369 問 大駒の連携⑨\n強引に角筋を通して、飛車打ちで決めます。",
+        "initialSfen": "6sn1/7pk/5+bR2/5B1P1/9/9/9/9/9 b R4g3s3n4l16p 1"
+      },
+      {
+        "id": 27,
+        "title": "第27問",
+        "description": "第 370 問 大駒の連携⑩\n飛車打ちから入り、馬との協力で玉を閉じ込めます。",
+        "initialSfen": "7nl/4+BPSk1/8p/9/9/9/9/9/9 b Rrb4g3s3n3l16p 1"
+      },
+      {
+        "id": 28,
+        "title": "第28問",
+        "description": "第 371 問 大駒の連携⑪\n目障りな馬をずらして飛車成りで決めてください。",
+        "initialSfen": "7k1/5R3/7+bB/9/9/9/9/9/9 b Sr4g3s4n4l18p 1"
+      },
+      {
+        "id": 29,
+        "title": "第29問",
+        "description": "第 372 問 大駒の連携⑫\n初手は馬の王手から。最後は竜を転換して詰ましてください。",
+        "initialSfen": "6+R2/7p1/5+B1k1/8p/9/7r1/9/9/9 b b4g4s4n4l16p 1"
+      },
+      {
+        "id": 30,
+        "title": "第30問",
+        "description": "第 373 問 大駒の連携⑬\n飛車の打ち場所と成り場所を間違えないようにしてください。",
+        "initialSfen": "6s1l/6pk1/8p/6B2/9/8b/9/9/9 b Rr4g3s4n3l16p 1"
+      },
+      {
+        "id": 31,
+        "title": "第31問",
+        "description": "第 374 問 大駒の連携⑭\n角の犠打を放ち、飛車と角の連携を図ってください。",
+        "initialSfen": "5R2l/6k2/8p/5Bg2/8P/9/9/9/9 b Br3g4s4n3l16p 1"
+      },
+      {
+        "id": 32,
+        "title": "第32問",
+        "description": "第 375 問 大駒の連携⑮\n１五角の存在は絶大です。角筋を利用してください。",
+        "initialSfen": "7n1/7k1/5p1p1/5bR2/8B/9/9/9/9 b R4g4s3n4l16p 1"
+      },
+      {
+        "id": 33,
+        "title": "第33問",
+        "description": "第 376 問 大駒の連携⑯\n最終形は竜と馬２枚の大駒でまとめます。",
+        "initialSfen": "9/6sk1/6p2/8+R/9/9/9/9/9 b BSrb4g2s4n4l17p 1"
+      },
+      {
+        "id": 34,
+        "title": "第34問",
+        "description": "第 377 問 大駒の連携⑰\n角を成る場所が課題です。",
+        "initialSfen": "4+R1Bkl/6P1p/9/7P1/9/9/9/9/9 b rb4g4s4n3l15p 1"
+      },
+      {
+        "id": 35,
+        "title": "第35問",
+        "description": "第 378 問 大駒の連携⑱\n単純に飛車成る王手は、☖１三玉とかわされてわずかに届きません。",
+        "initialSfen": "7nl/8k/7p1/5BR1p/7g1/9/9/9/9 b Br3g4s3n3l16p 1"
+      },
+      {
+        "id": 36,
+        "title": "第36問",
+        "description": "第 379 問 大駒の連携⑲\n飛車の成り込みは狙わず、横に使います。",
+        "initialSfen": "7kl/9/6+B2/6R2/7r1/9/9/9/9 b Pb4g4s4n3l17p 1"
+      },
+      {
+        "id": 37,
+        "title": "第37問",
+        "description": "第 380 問 大駒の連携⑳\n飛車の転換を図ってください。",
+        "initialSfen": "7nk/5+R3/7p1/9/6R1+B/9/9/9/9 b b4g4s3n4l17p 1"
+      },
+      {
+        "id": 38,
+        "title": "第38問",
+        "description": "9節 応用問題\n第 381 問 応用問題①\nここからは力試しの応用問題。打ち歩詰め打開の軽手を見つけてください。",
+        "initialSfen": "6Srl/6P1k/5R3/7P1/9/9/9/9/9 b P2b4g3s4n3l15p 1"
+      },
+      {
+        "id": 39,
+        "title": "第39問",
+        "description": "第 382 問 応用問題②\n難題ですが、初手がポイントです。工夫をしてください。",
+        "initialSfen": "6sn1/8k/6pR1/9/5B3/9/9/9/9 b rb4g3s3n4l17p 1"
+      },
+      {
+        "id": 40,
+        "title": "第40問",
+        "description": "第 383 問 応用問題③\n打ち歩詰めを打開しながら竜の利きをそらしてください。",
+        "initialSfen": "6+B1l/6+r1k/9/7LB/9/9/9/9/9 b Pr4g4s4n2l17p 1"
+      },
+      {
+        "id": 41,
+        "title": "第41問",
+        "description": "第 384 問 応用問題④\n５一角の活用の仕方が主題です。",
+        "initialSfen": "4B3+P/5R3/6s1k/7Lp/9/9/9/9/9 b Nrb4g3s3n3l16p 1"
+      },
+      {
+        "id": 42,
+        "title": "第42問",
+        "description": "第 385 問 応用問題⑤\n邪魔駒を捨てます。",
+        "initialSfen": "6bk1/5R3/6B2/9/7N1/9/9/9/9 b Pr4g4s3n4l17p 1"
+      },
+      {
+        "id": 43,
+        "title": "第43問",
+        "description": "第 386 問 応用問題⑥\n馬と桂のコンビネーションで詰ましてください。",
+        "initialSfen": "7kl/5r3/6+P+B1/9/7N1/9/9/9/9 b rb4g4s3n3l17p 1"
+      },
+      {
+        "id": 44,
+        "title": "第44問",
+        "description": "第 387 問 応用問題⑦\n桂打ちで決めます。そのための工夫をしてください。",
+        "initialSfen": "6+B1l/8k/5r3/6GP1/9/9/9/9/9 b NPrb3g4s3n3l16p 1"
+      },
+      {
+        "id": 45,
+        "title": "第45問",
+        "description": "第 388 問 応用問題⑧\nすぐに☗１五歩は打ち歩詰めです。打開に守りの飛車を利用してください。",
+        "initialSfen": "9/9/6Bpp/8k/7n1/6rR1/9/9/9 b NPb4g4s2n4l15p 1"
+      },
+      {
+        "id": 46,
+        "title": "第46問",
+        "description": "第 389 問 応用問題⑨\n☗３二銀で簡単に詰みそうですが……。",
+        "initialSfen": "6k1l/4R3s/5p1p1/5SP1p/9/9/9/9/9 b Sr2b4gs4n3l14p 1"
+      },
+      {
+        "id": 47,
+        "title": "第47問",
+        "description": "第 390 問 応用問題⑩\n馬をどかして香の利きを通せば先が見えてきます。",
+        "initialSfen": "6k2/7R1/5+b3/9/5L3/9/9/9/9 b Rb4g4s4n3l18p 1"
+      },
+      {
+        "id": 48,
+        "title": "第48問",
+        "description": "第 391 問 応用問題⑪\n玉方は堅く見えますが、飛車を捨てて銀打ちで仕留めます。",
+        "initialSfen": "6k2/7+b1/6+B2/9/6+r2/9/9/9/9 b RS4g3s4n4l18p 1"
+      },
+      {
+        "id": 49,
+        "title": "第49問",
+        "description": "第 392 問 応用問題⑫\n初手に強手を放ち守りを弱体化させます。",
+        "initialSfen": "6Rn1/7k1/7p1/8+B/7N1/9/9/9/9 b Srb4g3s2n4l17p 1"
+      },
+      {
+        "id": 50,
+        "title": "第50問",
+        "description": "第 393 問 応用問題⑬\n馬と桂馬のコンビネーションで詰まします。",
+        "initialSfen": "8k/6s1l/4+B4/6N2/9/9/9/9/9 b N2rb4g3s2n3l18p 1"
+      },
+      {
+        "id": 51,
+        "title": "第51問",
+        "description": "第 394 問 応用問題⑭\n少し重い形です。解消して持駒の銀を使う手立てを考えてください。",
+        "initialSfen": "7nl/7Bk/7p1/6+R2/9/9/9/9/9 b Srb4g3s3n3l17p 1"
+      },
+      {
+        "id": 52,
+        "title": "第52問",
+        "description": "第 395 問 応用問題⑮\n銀を動かして開き王手をしますが、その方法が問題です。",
+        "initialSfen": "7nl/5+RS1k/7p1/6l1p/5R3/9/9/9/9 b 2b4g3s3n2l16p 1"
+      },
+      {
+        "id": 53,
+        "title": "第53問",
+        "description": "第 396 問 応用問題⑯\nすぐの開き王手は☖３二玉で失敗します。",
+        "initialSfen": "6kS+R/5p3/9/6r2/9/9/9/9/9 b S2b4g2s4n4l17p 1"
+      },
+      {
+        "id": 54,
+        "title": "第54問",
+        "description": "第 397 問 応用問題⑰\n金は最後に残す駒です。",
+        "initialSfen": "7nl/9/6p1k/9/7Pp/9/9/9/9 b G2S2r2b3g2s3n3l15p 1"
+      },
+      {
+        "id": 55,
+        "title": "第55問",
+        "description": "第 398 問 応用問題⑱\n３四金の使い方がポイント。初手が大切です。",
+        "initialSfen": "7nl/9/8k/6G2/9/7L1/9/9/9 b G2r2b2g4s3n2l18p 1"
+      },
+      {
+        "id": 56,
+        "title": "第56問",
+        "description": "第 399 問 応用問題⑲\n香の役目は、銀取りではありません。",
+        "initialSfen": "6Sn+B/9/7ks/9/6Pp1/8L/9/9/9 b G2rb3g2s3n3l16p 1"
+      },
+      {
+        "id": 57,
+        "title": "第57問",
+        "description": "第 400 問 応用問題⑳\n角の犠打で玉を隅に追いやります。３手目の飛車の使い方が大切です。",
+        "initialSfen": "9/7k1/6R2/8b/9/9/9/9/9 b BGr3g4s4n4l18p 1"
+      }
+    ],
+    "timestamp": 1792672125733
   }
 ]
