@@ -1,9 +1,9 @@
 [
   {
-    "id": "1792588356247",
-    "title": "©kiryoアプリ　実戦頻出詰将棋①+ (2026/10/21)",
-    "appTitle": "©kiryoアプリ　実戦頻出詰将棋①+",
-    "clearUrl": "https://service-8830.ai.studio/complete?book=60-1",
+    "id": "1792902631942",
+    "title": "©kiryoアプリ　実戦頻出詰将棋①+一間龍 (2026/10/25)",
+    "appTitle": "©kiryoアプリ　実戦頻出詰将棋①+一間龍",
+    "clearUrl": "https://service-8830.ai.studio/complete?book=11-1",
     "problems": [
       {
         "id": 1,
@@ -887,7 +887,16 @@
             "piece": "GI"
           }
         ]
-      },
+      }
+    ],
+    "timestamp": 1792902631942
+  },
+  {
+    "id": "1792902533617",
+    "title": "©kiryoアプリ　実戦頻出詰将棋②+退路封鎖 (2026/10/25)",
+    "appTitle": "©kiryoアプリ　実戦頻出詰将棋②+退路封鎖",
+    "clearUrl": "https://service-8830.ai.studio/complete?book=11-2",
+    "problems": [
       {
         "id": 20,
         "title": "第20問",
@@ -1920,7 +1929,16 @@
             "promote": true
           }
         ]
-      },
+      }
+    ],
+    "timestamp": 1792902533617
+  },
+  {
+    "id": "1792902409330",
+    "title": "©kiryoアプリ　実戦頻出詰将棋③+邪魔駒消去 (2026/10/25)",
+    "appTitle": "©kiryoアプリ　実戦頻出詰将棋③+邪魔駒消去",
+    "clearUrl": "https://service-8830.ai.studio/complete?book=11-3",
+    "problems": [
       {
         "id": 41,
         "title": "第41問",
@@ -3019,738 +3037,5655 @@
         ]
       }
     ],
-    "timestamp": 1792588356247
+    "timestamp": 1792902409330
   },
   {
-    "id": "1792592067049",
-    "title": "©kiryoアプリ　実戦頻出詰将棋② (2026/10/21)",
-    "appTitle": "©kiryoアプリ　実戦頻出詰将棋②",
-    "clearUrl": "https://service-8830.ai.studio/complete?book=60-1",
+    "id": "1792902074118",
+    "title": "©kiryoアプリ　実戦頻出詰将棋④+両王手 (2026/10/25)",
+    "appTitle": "©kiryoアプリ　実戦頻出詰将棋④+両王手",
+    "clearUrl": "https://service-8830.ai.studio/complete?book=11-4",
     "problems": [
       {
         "id": 1,
         "title": "第1問",
         "description": "第282問 両王手① 一手で２通りの王手を同時に掛けることを「両王手」と言います。",
-        "initialSfen": "7nl/7k1/7pp/5+R3/4B4/9/9/9/9 b rb4g4s3n3l16p 1"
+        "initialSfen": "7nl/7k1/7pp/5+R3/4B4/9/9/9/9 b rb4g4s3n3l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 4,
+              "y": 4
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 2,
         "title": "第2問",
         "description": "第283問 両王手② 「両王手」と「開き王手」の違いをおぼえてください。",
-        "initialSfen": "7nl/8k/7R1/9/5BrN1/9/9/9/9 b b4g4s2n3l18p 1"
+        "initialSfen": "7nl/8k/7R1/9/5BrN1/9/9/9/9 b b4g4s2n3l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 3,
         "title": "第3問",
         "description": "第284問 両王手③ 駒を取る王手より「両王手」が有効です。",
-        "initialSfen": "6snk/5r3/6+R2/5B3/9/9/9/9/9 b b4g3s3n4l18p 1"
+        "initialSfen": "6snk/5r3/6+R2/5B3/9/9/9/9/9 b b4g3s3n4l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 4,
         "title": "第4問",
         "description": "第285問 両王手④ 両王手で詰まします。その方法は？",
-        "initialSfen": "6+Bnl/8k/8B/9/7rL/9/9/9/9 b r4g4s3n2l18p 1"
+        "initialSfen": "6+Bnl/8k/8B/9/7rL/9/9/9/9 b r4g4s3n2l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 5,
         "title": "第5問",
         "description": "第286問 両王手⑤ 両王手は３通りあります。消去法で考えて手を選んでください。",
-        "initialSfen": "6Bnl/6+bR1/6s1k/9/7L1/9/9/9/9 b r4g3s3n2l18p 1"
+        "initialSfen": "6Bnl/6+bR1/6s1k/9/7L1/9/9/9/9 b r4g3s3n2l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 6,
         "title": "第6問",
         "description": "第287問 両王手⑥ 銀を動かして厳しい両王手を掛けてください。",
-        "initialSfen": "7+Pg/9/4R1Sk1/6ppp/9/9/9/9/9 b r2b3g3s4n4l14p 1"
+        "initialSfen": "7+Pg/9/4R1Sk1/6ppp/9/9/9/9/9 b r2b3g3s4n4l14p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 7,
         "title": "第7問",
         "description": "第288問 両王手⑦ 「両王手」は一手で同時に２通りの王手が掛かることを言います。",
-        "initialSfen": "7nl/9/8k/6BNp/6B2/9/9/9/9 b 2r4g4s2n3l17p 1"
+        "initialSfen": "7nl/9/8k/6BNp/6B2/9/9/9/9 b 2r4g4s2n3l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 4
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 8,
         "title": "第8問",
         "description": "第289問 両王手⑧ 「両王手」の理解ができていれば、桂の使い方が分かります。",
-        "initialSfen": "7nk/7s1/9/9/8N/8L/9/9/9 b 2r2b4g3s2n3l18p 1"
+        "initialSfen": "7nk/7s1/9/9/8N/8L/9/9/9 b 2r2b4g3s2n3l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 1,
+              "y": 5
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 9,
         "title": "第9問",
         "description": "第290問 両王手⑨ 竜を移動して両王手をかけます。",
-        "initialSfen": "6skl/9/5+R3/4B4/9/9/9/9/9 b rb4g3s4n3l18p 1"
+        "initialSfen": "6skl/9/5+R3/4B4/9/9/9/9/9 b rb4g3s4n3l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 4,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 10,
         "title": "第10問",
         "description": "第291問 両王手⑩ 飛車や馬を取って王手をしても詰みません。",
-        "initialSfen": "8k/6+b2/6+R2/5B1r1/9/9/9/9/9 b 4g4s4n4l18p 1"
+        "initialSfen": "8k/6+b2/6+R2/5B1r1/9/9/9/9/9 b 4g4s4n4l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 11,
         "title": "第11問",
         "description": "第292問 両王手⑪ 守備飛車に気をつけて、玉を５五角の射程に入れてください。",
-        "initialSfen": "5r1nl/8k/7sp/5+R3/4B4/9/9/9/9 b Gb3g3s3n3l17p 1"
+        "initialSfen": "5r1nl/8k/7sp/5+R3/4B4/9/9/9/9 b Gb3g3s3n3l17p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 4
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": false
+          }
+        ],
+        "branches": [
+          {
+            "id": "1792767943802",
+            "name": "変化1",
+            "moves": [
+              {
+                "from": {
+                  "x": 4,
+                  "y": 4
+                },
+                "to": {
+                  "x": 4,
+                  "y": 2
+                },
+                "promote": false
+              },
+              {
+                "from": {
+                  "x": 4,
+                  "y": 1
+                },
+                "to": {
+                  "x": 4,
+                  "y": 2
+                },
+                "promote": false
+              },
+              {
+                "to": {
+                  "x": 2,
+                  "y": 2
+                },
+                "piece": "KI"
+              },
+              {
+                "from": {
+                  "x": 4,
+                  "y": 2
+                },
+                "to": {
+                  "x": 2,
+                  "y": 2
+                },
+                "promote": false
+              }
+            ]
+          }
+        ]
       },
       {
         "id": 12,
         "title": "第12問",
         "description": "第293問 両王手⑫ 最後は、角と金での両王手で詰ますことになります。",
-        "initialSfen": "6Bnl/6s1k/9/7Pp/9/9/9/9/9 b G2rb3g3s3n3l16p 1"
+        "initialSfen": "6Bnl/6s1k/9/7Pp/9/9/9/9/9 b G2rb3g3s3n3l16p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 13,
         "title": "第13問",
         "description": "第294問 両王手⑬ 初手に策を講じて３手目の両王手で詰まします。",
-        "initialSfen": "6kn1/5s3/5p1R1/6p1B/9/9/9/9/9 b Srb4g2s3n4l16p 1"
+        "initialSfen": "6kn1/5s3/5p1R1/6P1B/9/9/9/9/9 b Srb4g2s3n4l16p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 14,
         "title": "第14問",
         "description": "第295問 両王手⑭ 初手に両王手はありません。３手目に両王手をかけて詰ましてください。",
-        "initialSfen": "7kl/9/6PP+b/6B2/9/9/9/9/9 b G2r3g4s4n3l16p 1"
+        "initialSfen": "7kl/9/6PP+b/6B2/9/9/9/9/9 b G2r3g4s4n3l16p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 15,
         "title": "第15問",
         "description": "第296問 両王手⑮ 香成りで決めますが、焦らず迫ります。テーマはやはり「両王手」です。",
-        "initialSfen": "7nl/6G1k/9/7Ls/6Br1/9/9/9/9 b rb3g3s3n2l18p 1"
+        "initialSfen": "7nl/6G1k/9/7Ls/6Br1/9/9/9/9 b rb3g3s3n2l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 16,
         "title": "第16問",
         "description": "第297問 両王手⑯ ３手目に竜と角の連携で両王手の詰み形を作ってください。",
-        "initialSfen": "7n1/7Bk/5p+R2/5B1r1/9/9/9/9/9 b 4g4s3n4l17p 1"
+        "initialSfen": "7n1/7Bk/5p+R2/5B1r1/9/9/9/9/9 b 4g4s3n4l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 17,
         "title": "第17問",
         "description": "第298問 両王手⑰ 難問です。５手目に「両王手」を実現させます。",
-        "initialSfen": "5p1n1/8l/6kpp/5R3/4B4/9/9/9/9 b Br4g4s3n3l15p 1"
+        "initialSfen": "5p1n1/8l/6kpp/5R3/4B4/9/9/9/9 b Br4g4s3n3l15p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 4
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": true
+          }
+        ],
+        "branches": [
+          {
+            "id": "1792768136370",
+            "name": "変化1",
+            "moves": [
+              {
+                "to": {
+                  "x": 2,
+                  "y": 2
+                },
+                "piece": "KA"
+              },
+              {
+                "from": {
+                  "x": 3,
+                  "y": 3
+                },
+                "to": {
+                  "x": 3,
+                  "y": 2
+                },
+                "promote": false
+              }
+            ]
+          }
+        ]
       },
       {
         "id": 18,
         "title": "第18問",
         "description": "第299問 両王手⑱ 高度なテクニックで２枚の飛車を操ります。",
-        "initialSfen": "7n1/7s1/8k/6RR1/5B3/9/9/9/9 b b4g3s3n4l18p 1"
-      },
+        "initialSfen": "7n1/7s1/8k/6RR1/5B3/9/9/9/9 b b4g3s3n4l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 4
+            },
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 4
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "promote": false
+          }
+        ]
+      }
+    ],
+    "timestamp": 1792902074118
+  },
+  {
+    "id": "1792902183446",
+    "title": "©kiryoアプリ　実戦頻出詰将棋⑤+開き王手 (2026/10/25)",
+    "appTitle": "©kiryoアプリ　実戦頻出詰将棋⑤+開き王手",
+    "clearUrl": "https://service-8830.ai.studio/complete?book=11-5",
+    "problems": [
       {
         "id": 19,
         "title": "第19問",
         "description": "第300問 開き王手① ３四の角が生命線です。取られないようにしながらの開き王手は？",
-        "initialSfen": "7nl/6l1k/5r1R1/6B2/9/9/9/9/9 b b4g4s3n2l18p 1"
+        "initialSfen": "7nl/6l1k/5r1R1/6B2/9/9/9/9/9 b b4g4s3n2l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "FU"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 20,
         "title": "第20問",
         "description": "第301問 開き王手② 飛車を移動して開き王手をかけます。守り駒に注意をしてください。",
-        "initialSfen": "5G1nl/6k2/5p1R1/8B/9/9/9/9/9 b rb3g4s3n3l17p 1"
+        "initialSfen": "5G1nl/6k2/5p1R1/8B/9/9/9/9/9 b rb3g4s3n3l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "FU"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 21,
         "title": "第21問",
         "description": "第302問 開き王手③ 香の移動で開き王手をしますが、絶好の地点があります。",
-        "initialSfen": "7nl/9/6S1k/7Lp/6Bp1/9/9/9/9 b 2rb4g3s3n2l16p 1"
+        "initialSfen": "7nl/9/6S1k/7Lp/6Bp1/9/9/9/9 b 2rb4g3s3n2l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 5
+            },
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 22,
         "title": "第22問",
         "description": "第303問 開き王手④ 現状で玉が動ける場所は１二と１三です。両方を封じる開き王手は？",
-        "initialSfen": "6Sn1/6g2/6bk1/6R2/5B2P/9/9/9/9 b r3g3s3n4l17p 1"
+        "initialSfen": "6Sn1/6g2/6bk1/6R2/5B2P/9/9/9/9 b r3g3s3n4l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 4
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 5
+            },
+            "to": {
+              "x": 3,
+              "y": 4
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 23,
         "title": "第23問",
         "description": "第304問 開き王手⑤ 駒を取りながらの開き王手が第一感ですが……。",
-        "initialSfen": "6Bn1/6gRl/8k/9/8P/9/9/9/9 b rb3g4s3n3l17p 1"
+        "initialSfen": "6Bn1/6gRl/8k/9/8P/9/9/9/9 b rb3g4s3n3l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 5
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 5
+            },
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 24,
         "title": "第24問",
         "description": "第305問 開き王手⑥ 桂打ちを決め手にしますが、４二の角がそれを妨げているようです。",
-        "initialSfen": "7nl/5b1gk/8p/6G2/5B3/9/9/9/9 b N2r2g4s2n3l17p 1"
+        "initialSfen": "7nl/5b1gk/8p/6G2/5B3/9/9/9/9 b N2r2g4s2n3l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KY"
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "piece": "KE"
+          }
+        ]
       },
       {
         "id": 25,
         "title": "第25問",
         "description": "第306問 開き王手⑦ まずは飛車で開き王手をかけ、桂打ちで決めます。",
-        "initialSfen": "7nl/4gRS1k/7bp/9/9/9/9/9/9 b Nrb3g3s2n3l17p 1"
+        "initialSfen": "7nl/4gRS1k/7bp/9/9/9/9/9/9 b Nrb3g3s2n3l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 2
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "piece": "KE"
+          }
+        ]
       },
       {
         "id": 26,
         "title": "第26問",
         "description": "第307問 開き王手⑧ 攻め駒がもう１枚欲しいところです。",
-        "initialSfen": "6Bnl/7R1/6r1k/8p/9/9/9/9/9 b b4g4s3n3l17p 1"
+        "initialSfen": "6Bnl/7R1/6r1k/8p/9/9/9/9/9 b b4g4s3n3l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 5
+            },
+            "piece": "KE"
+          }
+        ]
       },
       {
         "id": 27,
         "title": "第27問",
         "description": "第308問 開き王手⑨ 角が動けば開き王手ですが、玉方の飛車の利きに注意をしてください。",
-        "initialSfen": "7nl/5+R1Bk/9/8p/5r3/9/9/9/9 b b4g4s3n3l17p 1"
+        "initialSfen": "7nl/5+R1Bk/9/8p/5r3/9/9/9/9 b b4g4s3n3l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 4,
+              "y": 4
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 28,
         "title": "第28問",
         "description": "第309問 開き王手⑩ 開き王手をかけますが、飛車の成り場所が問題です。",
-        "initialSfen": "6p1k/7R1/6B1p/6+b2/9/7r1/9/9/9 b L4g4s4n3l16p 1"
+        "initialSfen": "6p1k/7R1/6B1p/6+b2/9/7r1/9/9/9 b L4g4s4n3l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "piece": "KY"
+          }
+        ]
       },
       {
         "id": 29,
         "title": "第29問",
         "description": "第310問 開き王手⑪ 意外な開き王手で追い詰めてください。",
-        "initialSfen": "6r1l/9/5RS1k/7Pp/7p1/8P/9/9/9 b 2b4g3s4n3l14p 1"
+        "initialSfen": "6r1l/9/5RS1k/7Pp/7p1/8P/9/9/9 b 2b4g3s4n3l14p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 30,
         "title": "第30問",
         "description": "第311問 開き王手⑫ 開き王手で香筋を通してから、金打ちで仕留めます。",
-        "initialSfen": "5g1nl/7k1/9/5PpGp/7L1/9/9/9/9 b G2r2bg4s3n2l15p 1"
+        "initialSfen": "5g1nl/7k1/9/5PpGp/7L1/9/9/9/9 b G2r2bg4s3n2l15p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 4
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 3
+            },
+            "piece": "KI"
+          }
+        ],
+        "branches": [
+          {
+            "id": "1792772793534",
+            "name": "変化1",
+            "moves": [
+              {
+                "from": {
+                  "x": 2,
+                  "y": 4
+                },
+                "to": {
+                  "x": 2,
+                  "y": 3
+                },
+                "promote": false
+              },
+              {
+                "from": {
+                  "x": 2,
+                  "y": 2
+                },
+                "to": {
+                  "x": 3,
+                  "y": 1
+                },
+                "promote": false
+              }
+            ]
+          },
+          {
+            "id": "1792772814913",
+            "name": "変化2",
+            "moves": [
+              {
+                "from": {
+                  "x": 2,
+                  "y": 4
+                },
+                "to": {
+                  "x": 3,
+                  "y": 4
+                },
+                "promote": false
+              },
+              {
+                "from": {
+                  "x": 2,
+                  "y": 2
+                },
+                "to": {
+                  "x": 3,
+                  "y": 1
+                },
+                "promote": false
+              }
+            ]
+          }
+        ]
       },
       {
         "id": 31,
         "title": "第31問",
         "description": "第312問 開き王手⑬ 銀をどのように動かせばよいでしょう？初手がポイントです。",
-        "initialSfen": "7B1/4RS1k1/6p1s/7pp/9/9/9/9/9 b rb4g2s4n4l15p 1"
+        "initialSfen": "7B1/4RS1k1/6p1s/7pp/9/9/9/9/9 b rb4g2s4n4l15p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 32,
         "title": "第32問",
         "description": "第313問 開き王手⑭ 単純な開き王手では詰みません。初手に工夫が必要です。",
-        "initialSfen": "7nl/7p1/8k/6GNp/6B2/9/9/9/9 b G2rb2g4s2n3l16p 1"
+        "initialSfen": "7nl/7p1/8k/6GNp/6B2/9/9/9/9 b G2rb2g4s2n3l16p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 4
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 5
+            },
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 33,
         "title": "第33問",
         "description": "第314問 開き王手⑮ 金を動かしての開き王手をかけます。後は持駒の角で仕留めます。",
-        "initialSfen": "8k/6n2/6G2/5B3/7r1/9/9/9/9 b Br3g4s3n4l18p 1"
+        "initialSfen": "8k/6n2/6G2/5B3/7r1/9/9/9/9 b Br3g4s3n4l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 4,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 34,
         "title": "第34問",
         "description": "第315問 開き王手⑯ 桂を成り込んで開き王手を掛けます。３手目が大切です。",
-        "initialSfen": "6rn1/8b/9/6+RNk/7Pp/9/9/9/9 b Gb3g4s2n4l16p 1"
+        "initialSfen": "6rn1/8b/9/6+RNk/7Pp/9/9/9/9 b Gb3g4s2n4l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 4
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 4
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 35,
         "title": "第35問",
         "description": "第316問 開き王手⑰ 開き王手は２通り。どちらが正解でしょう？",
-        "initialSfen": "6r2/7+b1/9/6+RNk/4+b2Pp/9/9/9/9 b G3g4s3n4l16p 1"
+        "initialSfen": "6r2/7+b1/9/6+RNk/4+b2Pp/9/9/9/9 b G3g4s3n4l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 4
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 4
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "piece": "KI"
+          }
+        ],
+        "branches": [
+          {
+            "id": "1792773133879",
+            "name": "変化1",
+            "moves": [
+              {
+                "from": {
+                  "x": 2,
+                  "y": 4
+                },
+                "to": {
+                  "x": 1,
+                  "y": 2
+                },
+                "promote": true
+              },
+              {
+                "from": {
+                  "x": 3,
+                  "y": 1
+                },
+                "to": {
+                  "x": 3,
+                  "y": 4
+                },
+                "promote": false
+              }
+            ]
+          }
+        ]
       },
       {
         "id": 36,
         "title": "第36問",
         "description": "第317問 開き王手⑱ 飛車が移動して開き王手を掛けますが、打ち歩詰めに注意をしてください。",
-        "initialSfen": "8k/5S1R1/5p3/5B3/9/9/9/9/9 b Prb4g3s4n4l16p 1"
+        "initialSfen": "8k/5S1R1/5p3/5B3/9/9/9/9/9 b Prb4g3s4n4l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 3
+            },
+            "to": {
+              "x": 4,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "piece": "FU"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": true
+          }
+        ],
+        "branches": [
+          {
+            "id": "1792773230947",
+            "name": "変化1",
+            "moves": [
+              {
+                "from": {
+                  "x": 2,
+                  "y": 2
+                },
+                "to": {
+                  "x": 3,
+                  "y": 2
+                },
+                "promote": true
+              },
+              {
+                "from": {
+                  "x": 4,
+                  "y": 3
+                },
+                "to": {
+                  "x": 4,
+                  "y": 4
+                },
+                "promote": false
+              }
+            ]
+          }
+        ]
       },
       {
         "id": 37,
         "title": "第37問",
         "description": "第318問 開き王手⑲ 飛車の素抜きに注意して開き王手をしながら追い詰めます。",
-        "initialSfen": "7nl/5R1Bk/9/9/8b/9/9/9/9 b r4g4s3n3l18p 1"
+        "initialSfen": "7nl/5R1Bk/9/9/8b/9/9/9/9 b r4g4s3n3l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 38,
         "title": "第38問",
         "description": "第319問 開き王手⑳ 初手は飛車打ちから入ります。３手目の開き王手の成り場所が問題です。",
-        "initialSfen": "7nl/6r2/8k/6B1p/9/9/9/9/9 b Rb4g4s3n3l17p 1"
+        "initialSfen": "7nl/6r2/8k/6B1p/9/9/9/9/9 b Rb4g4s3n3l17p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "HI"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 39,
         "title": "第39問",
         "description": "第320問 開き王手㉑ 飛車を動かして開き王手をかけますが、玉方の応手に注意です。",
-        "initialSfen": "8l/7S1/9/8k/7Rp/6B2/9/9/9 b Lrb4g3s4n2l17p 1"
-      },
+        "initialSfen": "8l/7S1/9/8k/7Rp/6B2/9/9/9 b Lrb4g3s4n2l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 4
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "piece": "KY"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 5
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 5
+            },
+            "piece": "KY"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 6
+            },
+            "to": {
+              "x": 2,
+              "y": 5
+            },
+            "promote": false
+          }
+        ],
+        "branches": [
+          {
+            "id": "1792773482880",
+            "name": "変化1",
+            "moves": [
+              {
+                "from": {
+                  "x": 2,
+                  "y": 5
+                },
+                "to": {
+                  "x": 3,
+                  "y": 5
+                },
+                "promote": false
+              },
+              {
+                "to": {
+                  "x": 2,
+                  "y": 5
+                },
+                "piece": "FU"
+              },
+              {
+                "from": {
+                  "x": 3,
+                  "y": 6
+                },
+                "to": {
+                  "x": 2,
+                  "y": 5
+                },
+                "promote": false
+              },
+              {
+                "from": {
+                  "x": 1,
+                  "y": 4
+                },
+                "to": {
+                  "x": 2,
+                  "y": 4
+                },
+                "promote": false
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "timestamp": 1792902183446
+  },
+  {
+    "id": "1792901953672",
+    "title": "©kiryoアプリ　実戦頻出詰将棋⑥+とどめに金 (2026/10/25)",
+    "appTitle": "©kiryoアプリ　実戦頻出詰将棋⑥+とどめに金",
+    "clearUrl": "https://service-8830.ai.studio/complete?book=11-6",
+    "problems": [
       {
         "id": 40,
         "title": "第40問",
         "description": "第321問 金をとどめに残す① 金は詰みの主役です。飛車の犠打を放ち、金打ちで詰む形を作ります。",
-        "initialSfen": "5b1nl/5r2k/8p/9/7L1/9/9/9/9 b RGb3g4s3n2l17p 1"
+        "initialSfen": "5b1nl/5r2k/8p/9/7L1/9/9/9/9 b RGb3g4s3n2l17p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "HI"
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 41,
         "title": "第41問",
         "description": "第322問 金をとどめに残す② 飛車と銀の堅固な守りですが、角打ち一発で崩れます。",
-        "initialSfen": "5s1kl/5r3/4p2+Pp/9/9/9/9/9/9 b BGrb3g3s4n3l15p 1"
+        "initialSfen": "5s1kl/5r3/4p2+Pp/9/9/9/9/9/9 b BGrb3g3s4n3l15p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 4,
+              "y": 3
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 42,
         "title": "第42問",
         "description": "第323問 金をとどめに残す③ 飛車の利きを止めて、金打ちで仕留めます。",
-        "initialSfen": "8l/6G1k/6n1p/7r1/9/9/9/9/9 b BGrb2g4s3n3l17p 1"
+        "initialSfen": "8l/6G1k/6n1p/7r1/9/9/9/9/9 b BGrb2g4s3n3l17p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 4
+            },
+            "piece": "KA"
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KI"
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 43,
         "title": "第43問",
         "description": "第324問 金をとどめに残す④ 腹金を決め手にしてください。",
-        "initialSfen": "6s1R/6rk1/9/6B1p/5p3/9/9/9/9 b Gb3g3s4n4l16p 1"
+        "initialSfen": "6s1R/6rk1/9/6B1p/5p3/9/9/9/9 b Gb3g3s4n4l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 44,
         "title": "第44問",
         "description": "第325問 金をとどめに残す⑤ 金打ちを決め手にするのに２三飛が邪魔駒のようです。",
-        "initialSfen": "5r1nl/6S1k/7R1/5b3/9/9/9/9/9 b Gb3g3s3n3l18p 1"
+        "initialSfen": "5r1nl/6S1k/7R1/5b3/9/9/9/9/9 b Gb3g3s3n3l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 45,
         "title": "第45問",
         "description": "第326問 金をとどめに残す⑥ １四の地点への馬の利きが止まれば、頭金までのやさしい詰み形ができます。",
-        "initialSfen": "8S/6+b1l/5p2k/7p1/8P/9/9/9/9 b RGrb3g3s4n3l15p 1"
+        "initialSfen": "8S/6+b1l/5p2k/7p1/8P/9/9/9/9 b RGrb3g3s4n3l15p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "piece": "HI"
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "GI"
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 46,
         "title": "第46問",
         "description": "第327問 金をとどめに残す⑦ ３三馬の利きをなくせば、▲１五金までの詰み形ができます。",
-        "initialSfen": "9/7+P1/6+b1p/8k/7p1/6R1P/9/9/9 b Grb3g4s4n4l14p 1"
+        "initialSfen": "9/7+P1/6+b1p/8k/7p1/6R1P/9/9/9 b Grb3g4s4n4l14p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 6
+            },
+            "to": {
+              "x": 3,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "piece": "KI"
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 5
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 47,
         "title": "第47問",
         "description": "第328問 金をとどめに残す⑧ 飛車の利きを遮断して、金打ちで決め手にしてください。",
-        "initialSfen": "7rl/6S2/8k/7pp/9/9/9/9/9 b BGrb3g3s4n3l16p 1"
+        "initialSfen": "7rl/6S2/8k/7pp/9/9/9/9/9 b BGrb3g3s4n3l16p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 48,
         "title": "第48問",
         "description": "第329問 金をとどめに残す⑨ 銀の犠打で、玉方がどう応じても頭金の詰み形になるようにしてください。",
-        "initialSfen": "7n1/7k1/7B1/7P1/9/9/9/9/9 b GS2rb3g3s3n4l17p 1"
+        "initialSfen": "7n1/7k1/7B1/7P1/9/9/9/9/9 b GS2rb3g3s3n4l17p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 4
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 49,
         "title": "第49問",
         "description": "第330問 金をとどめに残す⑩ 守りの銀を無効化してください。",
-        "initialSfen": "5skn1/9/4+R+P1p1/9/9/9/9/9/9 b Gr2b3g2s3n4l16p 1"
+        "initialSfen": "5skn1/9/4+R+P1p1/9/9/9/9/9/9 b Gr2b3g2s3n4l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 5,
+              "y": 3
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 50,
         "title": "第50問",
         "description": "第331問 金をとどめに残す⑪ 初手にちょっと洒落た手があります。",
-        "initialSfen": "9/5sk2/4Bp2+P/6p2/5N3/9/9/9/9 b G2rb3g3s3n4l15p 1"
+        "initialSfen": "9/5sk2/4Bp2+P/6p2/5N3/9/9/9/9 b G2rb3g3s3n4l15p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 4,
+              "y": 5
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 51,
         "title": "第51問",
         "description": "第332問 金をとどめに残す⑫ 現状、金を使って詰ます手段がありません。玉方に隙を作ってください。",
-        "initialSfen": "7n1/4GBks1/5p3/6S2/9/9/9/9/9 b G2rb2g2s3n4l17p 1"
+        "initialSfen": "7n1/4GBks1/5p3/6S2/9/9/9/9/9 b G2rb2g2s3n4l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 52,
         "title": "第52問",
         "description": "第333問 金をとどめに残す⑬ 持駒は金が１枚ですが、節約して決め手に使ってください。",
-        "initialSfen": "6k1+P/6g2/9/7+BN/9/9/9/9/9 b G2rb2g4s3n4l17p 1"
+        "initialSfen": "6k1+P/6g2/9/7+BN/9/9/9/9/9 b G2rb2g4s3n4l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 1,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 53,
         "title": "第53問",
         "description": "第334問 金をとどめに残す⑭ 角は急所の駒で残します。飛車をさばいて金打ちを決め手にします。",
-        "initialSfen": "8B/5sk2/5p3/7R1/9/9/9/9/9 b Grb3g3s4n4l17p 1"
+        "initialSfen": "8B/5sk2/5p3/7R1/9/9/9/9/9 b Grb3g3s4n4l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 54,
         "title": "第54問",
         "description": "第335問 金をとどめに残す⑮ 守りの竜が居なければ▲２二金まで。竜の縦利きをなくしてください。",
-        "initialSfen": "7nl/8k/8p/5B1+r1/5p3/9/9/9/9 b BGr3g4s3n3l16p 1"
+        "initialSfen": "7nl/8k/8p/5B1+r1/5p3/9/9/9/9 b BGr3g4s3n3l16p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 4
+            },
+            "piece": "KA"
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KI"
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 55,
         "title": "第55問",
         "description": "第336問 金をとどめに残す⑯ ここでも決め手は金打ちです。腹金で詰む形をイメージしてください。",
-        "initialSfen": "6B1l/8k/6s2/7Pp/9/9/9/9/9 b G2rb3g3s4n3l16p 1"
+        "initialSfen": "6B1l/8k/6s2/7Pp/9/9/9/9/9 b G2rb3g3s4n3l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 56,
         "title": "第56問",
         "description": "第337問 金をとどめに残す⑰ 意表を突く一手があり、どう応じても金打ちまでの詰みとなります。",
-        "initialSfen": "7nl/5+R1S1/7k1/6pb1/8P/9/9/9/9 b Grb3g3s3n3l16p 1"
+        "initialSfen": "7nl/5+R1S1/7k1/6pb1/8P/9/9/9/9 b Grb3g3s3n3l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 57,
         "title": "第57問",
         "description": "第338問 金をとどめに残す⑱ 強力な馬の利きをそらして、金打ちを決め手にしてください。",
-        "initialSfen": "6RG1/8k/6+bpp/6r2/9/9/9/9/9 b Gb2g4s4n4l16p 1"
+        "initialSfen": "6RG1/8k/6+bpp/6r2/9/9/9/9/9 b Gb2g4s4n4l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "GI"
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 58,
         "title": "第58問",
         "description": "第339問 金をとどめに残す⑲ 金は最後に残しておきます。",
-        "initialSfen": "7nl/6sR1/6n1k/9/8p/9/9/9/9 b GSNr2b3g2sn3l17p 1"
+        "initialSfen": "7nl/6sR1/6n1k/9/8p/9/9/9/9 b GSNr2b3g2sn3l17p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 59,
         "title": "第59問",
         "description": "第340問 金をとどめに残す⑳ ３六の香を使いたいところです。",
-        "initialSfen": "6kn1/9/4Ppsp1/6Nb1/9/6L2/9/9/9 b 2G2rb2g3s2n3l15p 1"
+        "initialSfen": "6kn1/9/4Ppsp1/6Nb1/9/6L2/9/9/9 b 2G2rb2g3s2n3l15p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 5,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 60,
         "title": "第60問",
         "description": "第341問 金をとどめに残す㉑ 初手と３手目が難関です。ひねった王手を掛けてください。",
-        "initialSfen": "8+R/7S1/6gk1/4p1p2/7Pb/9/9/9/9 b Grb2g3s4n4l15p 1"
+        "initialSfen": "8+R/7S1/6gk1/4p1p2/7Pb/9/9/9/9 b Grb2g3s4n4l15p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 61,
         "title": "第61問",
         "description": "第342問 金をとどめに残す㉒ ３手一組の好手順で、飛車の横利きを消します。",
-        "initialSfen": "5gk1l/5r3/7+Pp/4p4/9/9/9/9/9 b B2Grbg4s4n3l15p 1"
+        "initialSfen": "5gk1l/5r3/7+Pp/4p4/9/9/9/9/9 b B2Grbg4s4n3l15p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 3
+            },
+            "piece": "KA"
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 62,
         "title": "第62問",
         "description": "第343問 金をとどめに残す㉓ ２三の角の処置が問題です。",
-        "initialSfen": "7nl/9/7Bk/9/8p/6bL1/9/9/9 b G2r3g4s3n2l17p 1"
+        "initialSfen": "7nl/9/7Bk/9/8p/6bL1/9/9/9 b G2r3g4s3n2l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "promote": false
+          }
+        ]
       }
     ],
-    "timestamp": 1792592067058
+    "timestamp": 1792901953672
   },
   {
-    "id": "1792672125722",
-    "title": "©kiryoアプリ　実戦頻出詰将棋③ (2026/10/22)",
-    "appTitle": "©kiryoアプリ　実戦頻出詰将棋③",
-    "clearUrl": "https://service-8830.ai.studio/complete?book=60-1",
+    "id": "1792901763646",
+    "title": "©kiryoアプリ　実戦頻出詰将棋⑦+金桂の連携 (2026/10/25)",
+    "appTitle": "©kiryoアプリ　実戦頻出詰将棋⑦+金桂の連携",
+    "clearUrl": "https://service-8830.ai.studio/complete?book=11-7",
     "problems": [
       {
         "id": 1,
         "title": "第1問",
         "description": "7節 金と桂の連携\n第 344 問 金と桂の連携①\n金と桂は相性のよい駒です。桂で玉のコビンをこじ開けて金打ちを狙います。",
-        "initialSfen": "7nl/8k/7pp/9/6N2/9/9/9/9 b GN2r2b3g4sn3l16p 1"
+        "initialSfen": "7nl/8k/7pp/9/6N2/9/9/9/9 b GN2r2b3g4sn3l16p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 2,
         "title": "第2問",
         "description": "第 345 問 金と桂の連携②\n金と桂の相性は抜群です。左右どちらから桂を打ちますか？",
-        "initialSfen": "6bnl/4+P1k2/6ppp/9/6N2/9/9/9/9 b GN2rb3g4sn3l14p 1"
+        "initialSfen": "6bnl/4+P1k2/6ppp/9/6N2/9/9/9/9 b GN2rb3g4sn3l14p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 3,
         "title": "第3問",
         "description": "第 346 問 金と桂の連携③\n桂の犠打で守備金を無効化します。",
-        "initialSfen": "7nl/6Pk1/6g2/7S1/9/9/9/9/9 b GN2r2b2g3s2n3l17p 1"
+        "initialSfen": "7nl/6Pk1/6g2/7S1/9/9/9/9/9 b GN2r2b2g3s2n3l17p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 4,
         "title": "第4問",
         "description": "第 347 問 金と桂の連携④\n初手は慎重に王手を掛けてください。",
-        "initialSfen": "7k1/8l/7G1/5+b1N1/9/9/9/9/9 b N2rb3g4s2n3l18p 1"
+        "initialSfen": "7k1/8l/7G1/5+b1N1/9/9/9/9/9 b N2rb3g4s2n3l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KE"
+          }
+        ]
       },
       {
         "id": 5,
         "title": "第5問",
         "description": "第 348 問 金と桂の連携⑤\n下段に逃げられないよう、ベタっと金打ちで支えてください。",
-        "initialSfen": "7n1/6+P2/7k1/8p/6S2/9/9/9/9 b GN2r2b3g3s2n4l16p 1"
+        "initialSfen": "7n1/6+P2/7k1/8p/6S2/9/9/9/9 b GN2r2b3g3s2n4l16p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 5
+            },
+            "piece": "KE"
+          }
+        ]
       },
       {
         "id": 6,
         "title": "第6問",
         "description": "第 349 問 金と桂の連携⑥\n初手☗３二とで金を取っての王手は詰みません。桂の使い方がポイントです。",
-        "initialSfen": "7kl/6g2/7+P1/9/5N3/9/9/9/9 b G2r2b2g4s3n3l17p 1"
+        "initialSfen": "7kl/6g2/7+P1/9/5N3/9/9/9/9 b G2r2b2g4s3n3l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 4,
+              "y": 5
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 1
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 7,
         "title": "第7問",
         "description": "第 350 問 金と桂の連携⑦\n足掛かりにする桂の打ち場所を工夫して作ってください。",
-        "initialSfen": "5g1nl/7k1/5p1p1/6G2/7N1/9/9/9/9 b GN2r2bg4sn3l16p 1"
+        "initialSfen": "5g1nl/7k1/5p1p1/6G2/7N1/9/9/9/9 b GN2r2bg4sn3l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 8,
         "title": "第8問",
         "description": "第 351 問 金と桂の連携⑧\n何度でも出てきた金と桂の連携の手筋です。",
-        "initialSfen": "8k/6g1l/7P1/9/5N3/9/9/9/9 b 2G2r2bg4s3n3l17p 1"
+        "initialSfen": "8k/6g1l/7P1/9/5N3/9/9/9/9 b 2G2r2bg4s3n3l17p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 5
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 9,
         "title": "第9問",
         "description": "第 352 問 金と桂の連携⑨\n１手ずつ玉を左辺に誘い出して、桂と金の連携で詰まします。",
-        "initialSfen": "8k/6g1l/9/5rN2/9/9/9/9/9 b RGN2b2g4s2n3l18p 1"
+        "initialSfen": "8k/6g1l/9/5rN2/9/9/9/9/9 b RGN2b2g4s2n3l18p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "piece": "HI"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 10,
         "title": "第10問",
         "description": "第 353 問 金と桂の連携⑩\n本問でもあの詰み形に誘導します。",
-        "initialSfen": "8l/6g1k/7p1/8G/7N1/9/9/9/9 b G2r2bg4s3n3l17p 1"
+        "initialSfen": "8l/6g1k/7p1/8G/7N1/9/9/9/9 b G2r2bg4s3n3l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 1,
+              "y": 4
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 5
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 1
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 11,
         "title": "第11問",
         "description": "第 354 問 金と桂の連携⑪\n金を投入して、桂はとどめに使います。",
-        "initialSfen": "7k1/8l/7+P1/5b3/9/9/9/9/9 b GN2rb3g4s3n3l17p 1"
+        "initialSfen": "7k1/8l/7+P1/5b3/9/9/9/9/9 b GN2rb3g4s3n3l17p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KE"
+          }
+        ]
       },
       {
         "id": 12,
         "title": "第12問",
         "description": "第 355 問 金と桂の連携⑫\n美濃囲い攻略の実戦図です。持駒に金がなくても諦めてはいけません。",
-        "initialSfen": "5g1nl/6sk1/5R2P/9/9/9/9/9/9 b Nr2b3g3s2n3l17p 1"
+        "initialSfen": "5g1nl/6sk1/5R2P/9/9/9/9/9/9 b Nr2b3g3s2n3l17p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 3
+            },
+            "to": {
+              "x": 4,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 4,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 13,
         "title": "第13問",
         "description": "第 356 問 金と桂の連携⑬\n角筋を生かして桂で王手を掛け、足掛かりを作ります。",
-        "initialSfen": "7nl/4R1gk1/4p1ppp/5B3/9/9/9/9/9 b Nrb3g4s2n3l14p 1"
+        "initialSfen": "7nl/4R1gk1/4p1ppp/5B3/9/9/9/9/9 b Nrb3g4s2n3l14p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 14,
         "title": "第14問",
         "description": "第 357 問 金と桂の連携⑭\n持駒の桂を急所に打ち据えてください。",
-        "initialSfen": "7nl/7sk/9/7BP/6N2/9/9/9/9 b GN2rb3g3sn3l17p 1"
+        "initialSfen": "7nl/7sk/9/7BP/6N2/9/9/9/9 b GN2rb3g3sn3l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 4
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 15,
         "title": "第15問",
         "description": "第 358 問 金と桂の連携⑮\n３五桂は上部を押さえるだけでなく、とどめにも活躍します。",
-        "initialSfen": "7n1/4G1k2/5Pb2/9/6N2/9/9/9/9 b G2rb2g4s2n4l17p 1"
+        "initialSfen": "7n1/4G1k2/5Pb2/9/6N2/9/9/9/9 b G2rb2g4s2n4l17p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 3
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 5
+            },
+            "to": {
+              "x": 4,
+              "y": 3
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 16,
         "title": "第16問",
         "description": "第 359 問 金と桂の連携⑯\n初手に軽い手があります。駒を取りながらの攻めは感心しません。",
-        "initialSfen": "5G1k1/7br/7+P1/9/9/9/9/9/9 b GNrb2g4s3n4l17p 1"
+        "initialSfen": "5G1k1/7br/7+P1/9/9/9/9/9/9 b GNrb2g4s3n4l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 17,
         "title": "第17問",
         "description": "第 360 問 金と桂の連携⑰\n初手を間違わないように。銀の隙を作ります。",
-        "initialSfen": "7k1/5+P1sl/9/9/7N1/9/9/9/9 b GN2r2b3g3s2n3l17p 1"
-      },
+        "initialSfen": "7k1/5+P1sl/9/9/7N1/9/9/9/9 b GN2r2b3g3s2n3l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 5
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KE"
+          }
+        ]
+      }
+    ],
+    "timestamp": 1792901763646
+  },
+  {
+    "id": "1792901613796",
+    "title": "©kiryoアプリ　実戦頻出詰将棋⑧+大駒の連携 (2026/10/25)",
+    "appTitle": "©kiryoアプリ　実戦頻出詰将棋⑧+大駒の連携",
+    "clearUrl": "https://service-8830.ai.studio/complete?book=11-8",
+    "problems": [
       {
         "id": 18,
         "title": "第18問",
         "description": "8節 大駒の連携\n第 361 問 大駒の連携①\n本問からは大駒の連携による詰みを扱います。",
-        "initialSfen": "6Bnl/8k/7p1/7b1/9/9/9/9/9 b Rr4g4s3n3l17p 1"
+        "initialSfen": "6Bnl/8k/7p1/7b1/9/9/9/9/9 b Rr4g4s3n3l17p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "HI"
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KY"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 19,
         "title": "第19問",
         "description": "第 362 問 大駒の連携②\n３枚の攻め駒を連結させる一手は？",
-        "initialSfen": "7+B1/9/6kP1/5R3/9/9/9/9/9 b rb4g4s4n4l17p 1"
+        "initialSfen": "7+B1/9/6kP1/5R3/9/9/9/9/9 b rb4g4s4n4l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 20,
         "title": "第20問",
         "description": "第 363 問 大駒の連携③\n短く竜を使います。",
-        "initialSfen": "6+B1l/5+R3/7k1/7pp/9/9/9/9/9 b rb4g4s4n3l16p 1"
+        "initialSfen": "6+B1l/5+R3/7k1/7pp/9/9/9/9/9 b rb4g4s4n3l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 21,
         "title": "第21問",
         "description": "第 364 問 大駒の連携④\n３枚の攻め駒を連絡させるピッタリした一手があります。",
-        "initialSfen": "6R2/7k1/9/9/6BN1/9/9/9/9 b rb4g4s3n4l18p 1"
+        "initialSfen": "6R2/7k1/9/9/6BN1/9/9/9/9 b rb4g4s3n4l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 5
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 22,
         "title": "第22問",
         "description": "第 365 問 大駒の連携⑤\n一間竜の形を作って詰ましてください。",
-        "initialSfen": "7kl/5R1s1/9/5b2B/9/9/9/9/9 b r4g3s4n3l18p 1"
+        "initialSfen": "7kl/5R1s1/9/5b2B/9/9/9/9/9 b r4g3s4n3l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 23,
         "title": "第23問",
         "description": "第 366 問 大駒の連携⑥\n飛車を取られないように迫ります。",
-        "initialSfen": "7+P1/8l/6k2/5Rbpp/9/9/9/9/9 b Br4g4s4n3l15p 1"
+        "initialSfen": "7+P1/8l/6k2/5Rbpp/9/9/9/9/9 b Br4g4s4n3l15p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 24,
         "title": "第24問",
         "description": "第 367 問 大駒の連携⑦\n馬は動かしません。竜の上下運動で捕らえます。",
-        "initialSfen": "5+B3/7kp/9/9/6+R2/9/9/9/9 b rb4g4s4n4l17p 1"
+        "initialSfen": "5+B3/7kp/9/9/6+R2/9/9/9/9 b rb4g4s4n4l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 5
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "FU"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 25,
         "title": "第25問",
         "description": "第 368 問 大駒の連携⑧\n玉を吊り上げて大駒を生かせる形にします。",
-        "initialSfen": "5B1n1/8s/6+Rpk/9/7PP/9/9/9/9 b rb4g3s3n4l15p 1"
+        "initialSfen": "5B1n1/8s/6+Rpk/9/7PP/9/9/9/9 b rb4g3s3n4l15p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 1,
+              "y": 5
+            },
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 26,
         "title": "第26問",
         "description": "第 369 問 大駒の連携⑨\n強引に角筋を通して、飛車打ちで決めます。",
-        "initialSfen": "6sn1/7pk/5+bR2/5B1P1/9/9/9/9/9 b R4g3s3n4l16p 1"
+        "initialSfen": "6sn1/7pk/5+bR2/5B1P1/9/9/9/9/9 b R4g3s3n4l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "piece": "HI"
+          }
+        ]
       },
       {
         "id": 27,
         "title": "第27問",
         "description": "第 370 問 大駒の連携⑩\n飛車打ちから入り、馬との協力で玉を閉じ込めます。",
-        "initialSfen": "7nl/4+BPSk1/8p/9/9/9/9/9/9 b Rrb4g3s3n3l16p 1"
+        "initialSfen": "7nl/4+BPSk1/8p/9/9/9/9/9/9 b Rrb4g3s3n3l16p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "HI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 2
+            },
+            "to": {
+              "x": 4,
+              "y": 1
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 28,
         "title": "第28問",
         "description": "第 371 問 大駒の連携⑪\n目障りな馬をずらして飛車成りで決めてください。",
-        "initialSfen": "7k1/5R3/7+bB/9/9/9/9/9/9 b Sr4g3s4n4l18p 1"
+        "initialSfen": "7k1/5R3/7+bB/9/9/9/9/9/9 b Sr4g3s4n4l18p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 4,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "piece": "FU"
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 29,
         "title": "第29問",
         "description": "第 372 問 大駒の連携⑫\n初手は馬の王手から。最後は竜を転換して詰ましてください。",
-        "initialSfen": "6+R2/7p1/5+B1k1/8p/9/7r1/9/9/9 b b4g4s4n4l16p 1"
+        "initialSfen": "6+R2/7p1/5+B1k1/8p/9/7r1/9/9/9 b b4g4s4n4l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 4,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 30,
         "title": "第30問",
         "description": "第 373 問 大駒の連携⑬\n飛車の打ち場所と成り場所を間違えないようにしてください。",
-        "initialSfen": "6s1l/6pk1/8p/6B2/9/8b/9/9/9 b Rr4g3s4n3l16p 1"
+        "initialSfen": "6s1l/6pk1/8p/6B2/9/8b/9/9/9 b Rr4g3s4n3l16p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "HI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 5
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 5
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 31,
         "title": "第31問",
         "description": "第 374 問 大駒の連携⑭\n角の犠打を放ち、飛車と角の連携を図ってください。",
-        "initialSfen": "5R2l/6k2/8p/5Bg2/8P/9/9/9/9 b Br3g4s4n3l16p 1"
+        "initialSfen": "5R2l/6k2/8p/5Bg2/8P/9/9/9/9 b Br3g4s4n3l16p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 32,
         "title": "第32問",
         "description": "第 375 問 大駒の連携⑮\n１五角の存在は絶大です。角筋を利用してください。",
-        "initialSfen": "7n1/7k1/5p1p1/5bR2/8B/9/9/9/9 b R4g4s3n4l16p 1"
+        "initialSfen": "7n1/7k1/5p1p1/5bR2/8B/9/9/9/9 b R4g4s3n4l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 5,
+              "y": 2
+            },
+            "piece": "HI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 2
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 33,
         "title": "第33問",
         "description": "第 376 問 大駒の連携⑯\n最終形は竜と馬２枚の大駒でまとめます。",
-        "initialSfen": "9/6sk1/6p2/8+R/9/9/9/9/9 b BSrb4g2s4n4l17p 1"
+        "initialSfen": "9/6sk1/6p2/8+R/9/9/9/9/9 b BSrb4g2s4n4l17p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "piece": "HI"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 4
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 34,
         "title": "第34問",
         "description": "第 377 問 大駒の連携⑰\n角を成る場所が課題です。",
-        "initialSfen": "4+R1Bkl/6P1p/9/7P1/9/9/9/9/9 b rb4g4s4n3l15p 1"
+        "initialSfen": "4+R1Bkl/6P1p/9/7P1/9/9/9/9/9 b rb4g4s4n3l15p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 35,
         "title": "第35問",
         "description": "第 378 問 大駒の連携⑱\n単純に飛車成る王手は、☖１三玉とかわされてわずかに届きません。",
-        "initialSfen": "7nl/8k/7p1/5BR1p/7g1/9/9/9/9 b Br3g4s3n3l16p 1"
+        "initialSfen": "7nl/8k/7p1/5BR1p/7g1/9/9/9/9 b Br3g4s3n3l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 4,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 36,
         "title": "第36問",
         "description": "第 379 問 大駒の連携⑲\n飛車の成り込みは狙わず、横に使います。",
-        "initialSfen": "7kl/9/6+B2/6R2/7r1/9/9/9/9 b Pb4g4s4n3l17p 1"
+        "initialSfen": "7kl/9/6+B2/6R2/7r1/9/9/9/9 b Pb4g4s4n3l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "piece": "FU"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 37,
         "title": "第37問",
         "description": "第 380 問 大駒の連携⑳\n飛車の転換を図ってください。",
-        "initialSfen": "7nk/5+R3/7p1/9/6R1+B/9/9/9/9 b b4g4s3n4l17p 1"
-      },
+        "initialSfen": "7nk/5+R3/7p1/9/6R1+B/9/9/9/9 b b4g4s3n4l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 1,
+              "y": 5
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 5
+            },
+            "to": {
+              "x": 1,
+              "y": 5
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 5
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": true
+          }
+        ]
+      }
+    ],
+    "timestamp": 1792901613796
+  },
+  {
+    "id": "1792901456640",
+    "title": "©kiryoアプリ　実戦頻出詰将棋⑨+応用問題 (2026/10/25)",
+    "appTitle": "©kiryoアプリ　実戦頻出詰将棋⑨+応用問題",
+    "clearUrl": "https://service-8830.ai.studio/complete?book=11-9",
+    "problems": [
       {
         "id": 38,
         "title": "第38問",
         "description": "9節 応用問題\n第 381 問 応用問題①\nここからは力試しの応用問題。打ち歩詰め打開の軽手を見つけてください。",
-        "initialSfen": "6Srl/6P1k/5R3/7P1/9/9/9/9/9 b P2b4g3s4n3l15p 1"
+        "initialSfen": "6Srl/6P1k/5R3/7P1/9/9/9/9/9 b P2b4g3s4n3l15p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "piece": "FU"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 3
+            },
+            "to": {
+              "x": 4,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 39,
         "title": "第39問",
         "description": "第 382 問 応用問題②\n難題ですが、初手がポイントです。工夫をしてください。",
-        "initialSfen": "6sn1/8k/6pR1/9/5B3/9/9/9/9 b rb4g3s3n4l17p 1"
+        "initialSfen": "6sn1/8k/6pR1/9/5B3/9/9/9/9 b rb4g3s3n4l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "piece": "FU"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 5
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          }
+        ],
+        "branches": [
+          {
+            "id": "1792899607200",
+            "name": "変化1",
+            "moves": [
+              {
+                "from": {
+                  "x": 2,
+                  "y": 3
+                },
+                "to": {
+                  "x": 3,
+                  "y": 3
+                },
+                "promote": true
+              },
+              {
+                "from": {
+                  "x": 1,
+                  "y": 2
+                },
+                "to": {
+                  "x": 1,
+                  "y": 1
+                },
+                "promote": false
+              }
+            ]
+          }
+        ]
       },
       {
         "id": 40,
         "title": "第40問",
         "description": "第 383 問 応用問題③\n打ち歩詰めを打開しながら竜の利きをそらしてください。",
-        "initialSfen": "6+B1l/6+r1k/9/7LB/9/9/9/9/9 b Pr4g4s4n2l17p 1"
+        "initialSfen": "6+B1l/6+r1k/9/7LB/9/9/9/9/9 b Pr4g4s4n2l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 1,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "piece": "FU"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 41,
         "title": "第41問",
         "description": "第 384 問 応用問題④\n５一角の活用の仕方が主題です。",
-        "initialSfen": "4B3+P/5R3/6s1k/7Lp/9/9/9/9/9 b Nrb4g3s3n3l16p 1"
+        "initialSfen": "4B3+P/5R3/6s1k/7Lp/9/9/9/9/9 b Nrb4g3s3n3l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 5
+            },
+            "piece": "KE"
+          }
+        ]
       },
       {
         "id": 42,
         "title": "第42問",
         "description": "第 385 問 応用問題⑤\n邪魔駒を捨てます。",
-        "initialSfen": "6bk1/5R3/6B2/9/7N1/9/9/9/9 b Pr4g4s3n4l17p 1"
+        "initialSfen": "6bk1/5R3/6B2/9/7N1/9/9/9/9 b Pr4g4s3n4l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "piece": "FU"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 5
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 43,
         "title": "第43問",
         "description": "第 386 問 応用問題⑥\n馬と桂のコンビネーションで詰ましてください。",
-        "initialSfen": "7kl/5r3/6+P+B1/9/7N1/9/9/9/9 b rb4g4s3n3l17p 1"
+        "initialSfen": "7kl/5r3/6+P+B1/9/7N1/9/9/9/9 b rb4g4s3n3l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 5
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 4,
+              "y": 1
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 44,
         "title": "第44問",
         "description": "第 387 問 応用問題⑦\n桂打ちで決めます。そのための工夫をしてください。",
-        "initialSfen": "6+B1l/8k/5r3/6GP1/9/9/9/9/9 b NPrb3g4s3n3l16p 1"
+        "initialSfen": "6+B1l/8k/5r3/6GP1/9/9/9/9/9 b NPrb3g4s3n3l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "piece": "FU"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "piece": "KE"
+          }
+        ]
       },
       {
         "id": 45,
         "title": "第45問",
         "description": "第 388 問 応用問題⑧\nすぐに☗１五歩は打ち歩詰めです。打開に守りの飛車を利用してください。",
-        "initialSfen": "9/9/6Bpp/8k/7n1/6rR1/9/9/9 b NPb4g4s2n4l15p 1"
+        "initialSfen": "9/9/6Bpp/8k/7n1/6rR1/9/9/9 b NPb4g4s2n4l15p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 6
+            },
+            "to": {
+              "x": 1,
+              "y": 6
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 6
+            },
+            "to": {
+              "x": 1,
+              "y": 6
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 5
+            },
+            "piece": "FU"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 6
+            },
+            "to": {
+              "x": 1,
+              "y": 5
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 6
+            },
+            "piece": "KE"
+          }
+        ]
       },
       {
         "id": 46,
         "title": "第46問",
         "description": "第 389 問 応用問題⑨\n☗３二銀で簡単に詰みそうですが……。",
-        "initialSfen": "6k1l/4R3s/5p1p1/5SP1p/9/9/9/9/9 b Sr2b4gs4n3l14p 1"
+        "initialSfen": "6k1l/4R3s/5p1p1/5SP1p/9/9/9/9/9 b Sr2b4gs4n3l14p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 5,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 4
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "GI"
+          }
+        ]
       },
       {
         "id": 47,
         "title": "第47問",
         "description": "第 390 問 応用問題⑩\n馬をどかして香の利きを通せば先が見えてきます。",
-        "initialSfen": "6k2/7R1/5+b3/9/5L3/9/9/9/9 b Rb4g4s4n3l18p 1"
+        "initialSfen": "6k2/7R1/5+b3/9/5L3/9/9/9/9 b Rb4g4s4n3l18p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "piece": "HI"
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 48,
         "title": "第48問",
         "description": "第 391 問 応用問題⑪\n玉方は堅く見えますが、飛車を捨てて銀打ちで仕留めます。",
-        "initialSfen": "6k2/7+b1/6+B2/9/6+r2/9/9/9/9 b RS4g3s4n4l18p 1"
+        "initialSfen": "6k2/7+b1/6+B2/9/6+r2/9/9/9/9 b RS4g3s4n4l18p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "piece": "HI"
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "piece": "KI"
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "piece": "GI"
+          }
+        ]
       },
       {
         "id": 49,
         "title": "第49問",
         "description": "第 392 問 応用問題⑫\n初手に強手を放ち守りを弱体化させます。",
-        "initialSfen": "6Rn1/7k1/7p1/8+B/7N1/9/9/9/9 b Srb4g3s2n4l17p 1"
+        "initialSfen": "6Rn1/7k1/7p1/8+B/7N1/9/9/9/9 b Srb4g3s2n4l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 1,
+              "y": 4
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 5
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 50,
         "title": "第50問",
         "description": "第 393 問 応用問題⑬\n馬と桂馬のコンビネーションで詰まします。",
-        "initialSfen": "8k/6s1l/4+B4/6N2/9/9/9/9/9 b N2rb4g3s2n3l18p 1"
+        "initialSfen": "8k/6s1l/4+B4/6N2/9/9/9/9/9 b N2rb4g3s2n3l18p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 3
+            },
+            "to": {
+              "x": 4,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 51,
         "title": "第51問",
         "description": "第 394 問 応用問題⑭\n少し重い形です。解消して持駒の銀を使う手立てを考えてください。",
-        "initialSfen": "7nl/7Bk/7p1/6+R2/9/9/9/9/9 b Srb4g3s3n3l17p 1"
+        "initialSfen": "7nl/7Bk/7p1/6+R2/9/9/9/9/9 b Srb4g3s3n3l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "HI"
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "piece": "GI"
+          }
+        ]
       },
       {
         "id": 52,
         "title": "第52問",
         "description": "第 395 問 応用問題⑮\n銀を動かして開き王手をしますが、その方法が問題です。",
-        "initialSfen": "7nl/5+RS1k/7p1/6l1p/5R3/9/9/9/9 b 2b4g3s3n2l16p 1"
+        "initialSfen": "7nl/5+RS1k/7p1/6l1p/5R3/9/9/9/9 b 2b4g3s3n2l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 6
+            },
+            "piece": "KE"
+          }
+        ]
       },
       {
         "id": 53,
         "title": "第53問",
         "description": "第 396 問 応用問題⑯\nすぐの開き王手は☖３二玉で失敗します。",
-        "initialSfen": "6kS+R/5p3/9/6r2/9/9/9/9/9 b S2b4g2s4n4l17p 1"
+        "initialSfen": "6kS+R/5p3/9/6r2/9/9/9/9/9 b S2b4g2s4n4l17p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 54,
         "title": "第54問",
         "description": "第 397 問 応用問題⑰\n金は最後に残す駒です。",
-        "initialSfen": "7nl/9/6p1k/9/7Pp/9/9/9/9 b G2S2r2b3g2s3n3l15p 1"
+        "initialSfen": "7nl/9/6p1k/9/7Pp/9/9/9/9 b G2S2r2b3g2s3n3l15p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 55,
         "title": "第55問",
         "description": "第 398 問 応用問題⑱\n３四金の使い方がポイント。初手が大切です。",
-        "initialSfen": "7nl/9/8k/6G2/9/7L1/9/9/9 b G2r2b2g4s3n2l18p 1"
+        "initialSfen": "7nl/9/8k/6G2/9/7L1/9/9/9 b G2r2b2g4s3n2l18p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 56,
         "title": "第56問",
         "description": "第 399 問 応用問題⑲\n香の役目は、銀取りではありません。",
-        "initialSfen": "6Sn+B/9/7ks/9/6Pp1/8L/9/9/9 b G2rb3g2s3n3l16p 1"
+        "initialSfen": "6Sn+B/9/7ks/9/6Pp1/8L/9/9/9 b G2rb3g2s3n3l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 57,
         "title": "第57問",
         "description": "第 400 問 応用問題⑳\n角の犠打で玉を隅に追いやります。３手目の飛車の使い方が大切です。",
-        "initialSfen": "9/7k1/6R2/8b/9/9/9/9/9 b BGr3g4s4n4l18p 1"
+        "initialSfen": "9/7k1/6R2/8b/9/9/9/9/9 b BGr3g4s4n4l18p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       }
     ],
-    "timestamp": 1792672125733
+    "timestamp": 1792901456640
   }
 ]
